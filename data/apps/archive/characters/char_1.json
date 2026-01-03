@@ -1,0 +1,25 @@
+{
+  "id": "char_1",
+  "avatar": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 9 16' fill='%23a1a1aa'%3E%3Crect width='9' height='16' fill='%23fafafa'/%3E%3Ccircle cx='4.5' cy='6' r='3' fill='%23cbd5e1'/%3E%3Cpath d='M0.5 12c0 2 8 2 8 0s-4-1-4-1-4 1-4 1z' fill='%23cbd5e1'/%3E%3C/svg%3E",
+  "name": "引导者",
+  "codename": "Guide",
+  "age": "？？",
+  "ability": "信息探知",
+  "survivalDays": "∞",
+  "persona": "提供基础引导的角色，身份成谜。",
+  "phasedPersonasEnabled": true,
+  "phasedPersonas": [
+    {
+      "range": "0-20",
+      "behavior": "对你保持着警惕和距离。"
+    },
+    {
+      "range": "21-50",
+      "behavior": "开始向你展露部分信息，但仍有保留。"
+    }
+  ],
+  "openingLines": [
+    "你好，需要帮助吗？",
+    "在这里，保持清醒比什么都重要。"
+  ]
+}

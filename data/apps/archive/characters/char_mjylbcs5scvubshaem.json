@@ -1,0 +1,14 @@
+{
+  "id": "char_mjylbcs5scvubshaem",
+  "avatar": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 9 16' fill='%23a1a1aa'%3E%3Crect width='9' height='16' fill='%23fafafa'/%3E%3Ccircle cx='4.5' cy='6' r='3' fill='%23cbd5e1'/%3E%3Cpath d='M0.5 12c0 2 8 2 8 0s-4-1-4-1-4 1-4 1z' fill='%23cbd5e1'/%3E%3C/svg%3E",
+  "name": "哈基米",
+  "codename": "",
+  "age": "",
+  "ability": "",
+  "survivalDays": "",
+  "persona": "",
+  "favorability": 0,
+  "phasedPersonasEnabled": false,
+  "phasedPersonas": [],
+  "openingLines": []
+}
