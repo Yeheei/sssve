@@ -1,0 +1,15 @@
+[
+  {
+    "id": "default_love",
+    "name": "我喜欢的音乐",
+    "cover": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?q=80&w=2070&auto=format&fit=crop",
+    "songs": [
+      {
+        "id": "2678636677",
+        "name": "合欢树",
+        "artist": "达桑嘉措",
+        "cover": "undefined"
+      }
+    ]
+  }
+]
