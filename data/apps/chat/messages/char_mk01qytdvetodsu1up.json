@@ -1,2405 +1,2566 @@
 [
   {
-    "id": "mk01vbe7x2dwti0k6g",
-    "text": "疑似发现{{user}}谈恋爱 (纪言之可能在共同朋友的朋友圈看到了{{user}}和某个异性笑得挺开心的合照而且感觉最近{{user}}频繁对着手机笑) 纪言之: (晚上11点半，发来一条消息) 你最近好像很忙。 纪言之: 跟那个穿蓝色条纹衬衫的家伙，聊得挺开心？ 纪言之：{{user}}我觉得他不太适合你…",
+    "id": "mk5kzl4u0faayej25jz",
+    "text": "(连续几天发现{{user}}回消息慢吞吞，约饭也推脱，纪律师的不满累积到顶点) 纪言之: (发过去一条简洁的微信消息) “你最近很忙？” (过了一小时没回音) 纪言之: (又一条) “忙到回复两个字的时间都没有？” (再过半小时，语音消息) 纪言之: “{{user}}，我是被你在不知不觉中拉黑了吗？还是你的手机终于决定起义，屏蔽了所有来自我的信号？” (他的声音听起来冷冰冰，但仔细听能听出一点委屈和极大的不爽，像只被忽略的大型犬在用爪子不耐烦地拍地板。) (键盘声停了，他的呼吸声透过听筒传过来，有点重) “喂。说话。至少告诉我，是我哪儿又惹到你了，让你突然搞失联这一套。”   (他的质问里带着明显的疲惫和不解，还有一种“你不理我我工作都做不下去了”的烦躁感)",
     "sender": "them",
-    "timestamp": 1767550397551
+    "timestamp": 1767884840383
   },
   {
-    "id": "mk020y99wov7bq3ywqj",
-    "text": "啥？",
+    "id": "mk5l64ebwsab8079rpq",
+    "text": "什么？",
     "sender": "me",
-    "timestamp": 1767550660461,
+    "timestamp": 1767885145283,
     "quote": null
   },
   {
-    "id": "mk0237ioj54q447svyl",
-    "turnId": "turn_mk0237in8t08bimr57j",
-    "text": "你的阅读理解能力需要再培训一下",
-    "sender": "them",
-    "timestamp": 1767550765776,
-    "voiceData": {
-      "status": "坐在书桌前，手指烦躁地敲着键盘",
-      "inner": "她怎么能问出“啥”？我说的还不够明白吗？",
-      "favorability": "51%",
-      "trueFeeling": "",
-      "tokens": null
-    }
-  },
-  {
-    "id": "mk023856ibjwe9bb05b",
-    "turnId": "turn_mk0237in8t08bimr57j",
-    "text": "共同好友李思思的朋友圈",
-    "sender": "them",
-    "timestamp": 1767550766587,
-    "voiceData": {
-      "status": "坐在书桌前，手指烦躁地敲着键盘",
-      "inner": "她怎么能问出“啥”？我说的还不够明白吗？",
-      "favorability": "51%",
-      "trueFeeling": "",
-      "tokens": null
-    }
-  },
-  {
-    "id": "mk0238rq0ootaua65i3",
-    "turnId": "turn_mk0237in8t08bimr57j",
-    "text": "第三张照片",
-    "sender": "them",
-    "timestamp": 1767550767400,
-    "voiceData": {
-      "status": "坐在书桌前，手指烦躁地敲着键盘",
-      "inner": "她怎么能问出“啥”？我说的还不够明白吗？",
-      "favorability": "51%",
-      "trueFeeling": "",
-      "tokens": null
-    }
-  },
-  {
-    "id": "mk0239ebzfffxxe19gf",
-    "turnId": "turn_mk0237in8t08bimr57j",
-    "text": "一个穿蓝色条纹衬衫的男性",
-    "sender": "them",
-    "timestamp": 1767550768214,
-    "voiceData": {
-      "status": "坐在书桌前，手指烦躁地敲着键盘",
-      "inner": "她怎么能问出“啥”？我说的还不够明白吗？",
-      "favorability": "51%",
-      "trueFeeling": "",
-      "tokens": null
-    }
-  },
-  {
-    "id": "mk023a0uwlf27wu2jp",
-    "turnId": "turn_mk0237in8t08bimr57j",
-    "text": "你和他，肩并肩，笑得…很灿烂",
-    "sender": "them",
-    "timestamp": 1767550769026,
-    "voiceData": {
-      "status": "坐在书桌前，手指烦躁地敲着键盘",
-      "inner": "她怎么能问出“啥”？我说的还不够明白吗？",
-      "favorability": "51%",
-      "trueFeeling": "",
-      "tokens": null
-    }
-  },
-  {
-    "id": "mk023anfzprysojf0he",
-    "turnId": "turn_mk0237in8t08bimr57j",
-    "text": "我只是基于现有信息，作出了一个初步判断",
-    "sender": "them",
-    "timestamp": 1767550769840,
-    "voiceData": {
-      "status": "坐在书桌前，手指烦躁地敲着键盘",
-      "inner": "她怎么能问出“啥”？我说的还不够明白吗？",
-      "favorability": "51%",
-      "trueFeeling": "",
-      "tokens": null
-    }
-  },
-  {
-    "id": "mk023b9z2wjz161p2ud",
-    "turnId": "turn_mk0237in8t08bimr57j",
-    "text": "有问题？",
-    "sender": "them",
-    "timestamp": 1767550770653,
-    "voiceData": {
-      "status": "坐在书桌前，手指烦躁地敲着键盘",
-      "inner": "她怎么能问出“啥”？我说的还不够明白吗？",
-      "favorability": "51%",
-      "trueFeeling": "",
-      "tokens": null
-    }
-  },
-  {
-    "id": "mk025twcatp0e7p1vs4",
-    "text": "他咋了？",
+    "id": "mk5l67gap86ok1vvlrm",
+    "text": "刚刚在看电影",
     "sender": "me",
-    "timestamp": 1767550888092,
+    "timestamp": 1767885149242,
     "quote": null
   },
   {
-    "id": "mk0262pkas89lnbrinr",
-    "text": "为什么要适合我？",
-    "sender": "me",
-    "timestamp": 1767550899512,
-    "quote": null
-  },
-  {
-    "id": "mk026f6l16mbgq5flmu",
-    "turnId": "turn_mk026f6lvyjkytmrkb",
-    "text": "他的笑，太刻意",
-    "sender": "them",
-    "timestamp": 1767550915677,
-    "voiceData": {
-      "status": "坐在书桌前，手指无意识地在鼠标上敲击，屏幕上还亮着未完成的文书",
-      "inner": "我只是在陈述事实…为什么她好像在质问我？",
-      "favorability": "52%",
-      "trueFeeling": "我在乎你啊，笨蛋",
-      "tokens": null
-    }
-  },
-  {
-    "id": "mk026ft49za46vmabpa",
-    "turnId": "turn_mk026f6lvyjkytmrkb",
-    "text": "嘴角上扬的弧度，超过了正常社交的阈值",
-    "sender": "them",
-    "timestamp": 1767550916489,
-    "voiceData": {
-      "status": "坐在书桌前，手指无意识地在鼠标上敲击，屏幕上还亮着未完成的文书",
-      "inner": "我只是在陈述事实…为什么她好像在质问我？",
-      "favorability": "52%",
-      "trueFeeling": "我在乎你啊，笨蛋",
-      "tokens": null
-    }
-  },
-  {
-    "id": "mk026gfpf5t1zvhvzcf",
-    "turnId": "turn_mk026f6lvyjkytmrkb",
-    "text": "根据微表情心理学，这种笑容通常与讨好型人格或隐藏真实意图有关",
-    "sender": "them",
-    "timestamp": 1767550917303,
-    "voiceData": {
-      "status": "坐在书桌前，手指无意识地在鼠标上敲击，屏幕上还亮着未完成的文书",
-      "inner": "我只是在陈述事实…为什么她好像在质问我？",
-      "favorability": "52%",
-      "trueFeeling": "我在乎你啊，笨蛋",
-      "tokens": null
-    }
-  },
-  {
-    "id": "mk026h2baxec4m9m4d",
-    "turnId": "turn_mk026f6lvyjkytmrkb",
-    "text": "另外，他站姿偏左，说明他潜意识里对你存在戒备或不真诚",
-    "sender": "them",
-    "timestamp": 1767550918118,
-    "voiceData": {
-      "status": "坐在书桌前，手指无意识地在鼠标上敲击，屏幕上还亮着未完成的文书",
-      "inner": "我只是在陈述事实…为什么她好像在质问我？",
-      "favorability": "52%",
-      "trueFeeling": "我在乎你啊，笨蛋",
-      "tokens": null
-    }
-  },
-  {
-    "id": "mk026howzznkc1j8k3",
-    "turnId": "turn_mk026f6lvyjkytmrkb",
-    "text": "至于第二个问题",
-    "sender": "them",
-    "timestamp": 1767550918932,
-    "voiceData": {
-      "status": "坐在书桌前，手指无意识地在鼠标上敲击，屏幕上还亮着未完成的文书",
-      "inner": "我只是在陈述事实…为什么她好像在质问我？",
-      "favorability": "52%",
-      "trueFeeling": "我在乎你啊，笨蛋",
-      "tokens": null
-    }
-  },
-  {
-    "id": "mk026ibj9japf44mqvj",
-    "turnId": "turn_mk026f6lvyjkytmrkb",
-    "text": "作为你的…邻居兼发小",
-    "sender": "them",
-    "timestamp": 1767550919749,
-    "voiceData": {
-      "status": "坐在书桌前，手指无意识地在鼠标上敲击，屏幕上还亮着未完成的文书",
-      "inner": "我只是在陈述事实…为什么她好像在质问我？",
-      "favorability": "52%",
-      "trueFeeling": "我在乎你啊，笨蛋",
-      "tokens": null
-    }
-  },
-  {
-    "id": "mk026iy8jcf757ebu3c",
-    "turnId": "turn_mk026f6lvyjkytmrkb",
-    "text": "我有义务对可能影响你长期生活质量的潜在风险进行评估",
-    "sender": "them",
-    "timestamp": 1767550920566,
-    "voiceData": {
-      "status": "坐在书桌前，手指无意识地在鼠标上敲击，屏幕上还亮着未完成的文书",
-      "inner": "我只是在陈述事实…为什么她好像在质问我？",
-      "favorability": "52%",
-      "trueFeeling": "我在乎你啊，笨蛋",
-      "tokens": null
-    }
-  },
-  {
-    "id": "mk026jkt7mx05qppfhh",
-    "turnId": "turn_mk026f6lvyjkytmrkb",
-    "text": "这是一种…风险规避",
-    "sender": "them",
-    "timestamp": 1767550921380,
-    "voiceData": {
-      "status": "坐在书桌前，手指无意识地在鼠标上敲击，屏幕上还亮着未完成的文书",
-      "inner": "我只是在陈述事实…为什么她好像在质问我？",
-      "favorability": "52%",
-      "trueFeeling": "我在乎你啊，笨蛋",
-      "tokens": null
-    }
-  },
-  {
-    "id": "mk0279wdhj066rdaofj",
-    "text": "…",
-    "sender": "me",
-    "timestamp": 1767550955487,
-    "quote": null
-  },
-  {
-    "id": "mk027dblqekr1w6w14",
-    "text": "你是不是想太多",
-    "sender": "me",
-    "timestamp": 1767550959921,
-    "quote": null
-  },
-  {
-    "id": "mk027xlb2xi2fqqadx5",
-    "text": "我听不懂你说话",
-    "sender": "me",
-    "timestamp": 1767550986191,
-    "quote": null
-  },
-  {
-    "id": "mk028ao2z5mh5l0ugxk",
-    "turnId": "turn_mk028ao26w1mcz8ptd9",
-    "text": "......",
-    "sender": "them",
-    "timestamp": 1767551003138,
-    "voiceData": null
-  },
-  {
-    "id": "mk028baluo8jwoux9yi",
-    "turnId": "turn_mk028ao26w1mcz8ptd9",
-    "text": "换个说法",
-    "sender": "them",
-    "timestamp": 1767551003950,
-    "voiceData": null
-  },
-  {
-    "id": "mk028bx40xkjlbopp9d",
-    "turnId": "turn_mk028ao26w1mcz8ptd9",
-    "text": "结论就是：",
-    "sender": "them",
-    "timestamp": 1767551004762,
-    "voiceData": null
-  },
-  {
-    "id": "mk028cjp8cwjbazsql5",
-    "turnId": "turn_mk028ao26w1mcz8ptd9",
-    "text": "他看你的眼神不对",
-    "sender": "them",
-    "timestamp": 1767551005576,
-    "voiceData": null
-  },
-  {
-    "id": "mk028d6cmlf6gwl6kzh",
-    "turnId": "turn_mk028ao26w1mcz8ptd9",
-    "text": "心怀不轨",
-    "sender": "them",
-    "timestamp": 1767551006392,
-    "voiceData": null
-  },
-  {
-    "id": "mk028dszrs36h6qaoc",
-    "turnId": "turn_mk028ao26w1mcz8ptd9",
-    "text": "你离他远点",
-    "sender": "them",
-    "timestamp": 1767551007208,
-    "voiceData": null
-  },
-  {
-    "id": "mk028efjsx9zmzkzfb",
-    "turnId": "turn_mk028ao26w1mcz8ptd9",
-    "text": "这总听得懂了吧？",
-    "sender": "them",
-    "timestamp": 1767551008021,
-    "voiceData": null
-  },
-  {
-    "id": "mk029qgvz9ix444uldk",
+    "id": "mk5o2i30tylcgqrnjj",
+    "turnId": "turn_mk5o2i30zp6gb7t3m6",
     "text": "哦",
-    "sender": "me",
-    "timestamp": 1767551070271,
-    "quote": null
-  },
-  {
-    "id": "mk029vpffoo4p3ujdkq",
-    "text": "他挺好玩的啊",
-    "sender": "me",
-    "timestamp": 1767551077059,
-    "quote": null
-  },
-  {
-    "id": "mk02a2m0iulfk07rppi",
-    "text": "为什么要远离",
-    "sender": "me",
-    "timestamp": 1767551086008,
-    "quote": null
-  },
-  {
-    "id": "mk02aa44iightcmem2l",
-    "text": "我们又没干什么",
-    "sender": "me",
-    "timestamp": 1767551095732,
-    "quote": null
-  },
-  {
-    "id": "mk02anisguginij49c4",
-    "turnId": "turn_mk02anirsdc9omuu98",
-    "text": "好玩？",
     "sender": "them",
-    "timestamp": 1767551113108,
+    "timestamp": 1767890015244,
     "voiceData": {
-      "status": "眉头紧锁，手指在手机屏幕上重重地敲击",
-      "inner": "她竟然在为那个男的说话？她听不出来我是在不高兴吗？",
-      "favorability": "48%",
-      "trueFeeling": "我不高兴了。",
+      "status": "靠在椅背上，捏了捏鼻梁",
+      "inner": "总算回了…看个电影而已，至于么。下次出门是不是要把手机绑她手上。",
+      "favorability": "52%",
+      "trueFeeling": "吓我一跳",
       "tokens": null
     }
   },
   {
-    "id": "mk02ao5evemx4romk4r",
-    "turnId": "turn_mk02anirsdc9omuu98",
-    "text": "你对“好玩”的定义标准，是不是有点太低了",
+    "id": "mk5o2ipwgabxb9ni1b",
+    "turnId": "turn_mk5o2i30zp6gb7t3m6",
+    "text": "看电影",
     "sender": "them",
-    "timestamp": 1767551113923,
+    "timestamp": 1767890016069,
     "voiceData": {
-      "status": "眉头紧锁，手指在手机屏幕上重重地敲击",
-      "inner": "她竟然在为那个男的说话？她听不出来我是在不高兴吗？",
-      "favorability": "48%",
-      "trueFeeling": "我不高兴了。",
+      "status": "靠在椅背上，捏了捏鼻梁",
+      "inner": "总算回了…看个电影而已，至于么。下次出门是不是要把手机绑她手上。",
+      "favorability": "52%",
+      "trueFeeling": "吓我一跳",
       "tokens": null
     }
   },
   {
-    "id": "mk02aorysagb98lrnw",
-    "turnId": "turn_mk02anirsdc9omuu98",
-    "text": "你们当然没干什么",
+    "id": "mk5o2jd5dfa5beqiaks",
+    "turnId": "turn_mk5o2i30zp6gb7t3m6",
+    "text": "什么电影",
     "sender": "them",
-    "timestamp": 1767551114736,
+    "timestamp": 1767890016907,
     "voiceData": {
-      "status": "眉头紧锁，手指在手机屏幕上重重地敲击",
-      "inner": "她竟然在为那个男的说话？她听不出来我是在不高兴吗？",
-      "favorability": "48%",
-      "trueFeeling": "我不高兴了。",
+      "status": "靠在椅背上，捏了捏鼻梁",
+      "inner": "总算回了…看个电影而已，至于么。下次出门是不是要把手机绑她手上。",
+      "favorability": "52%",
+      "trueFeeling": "吓我一跳",
       "tokens": null
     }
   },
   {
-    "id": "mk02apel60ouaxdejc3",
-    "turnId": "turn_mk02anirsdc9omuu98",
-    "text": "但你对着他笑，对着手机也笑",
+    "id": "mk5o2k0f2xws7lcqmd4",
+    "turnId": "turn_mk5o2i30zp6gb7t3m6",
+    "text": "能让你直接人间蒸发两个小时",
     "sender": "them",
-    "timestamp": 1767551115552,
+    "timestamp": 1767890017746,
     "voiceData": {
-      "status": "眉头紧锁，手指在手机屏幕上重重地敲击",
-      "inner": "她竟然在为那个男的说话？她听不出来我是在不高兴吗？",
-      "favorability": "48%",
-      "trueFeeling": "我不高兴了。",
+      "status": "靠在椅背上，捏了捏鼻梁",
+      "inner": "总算回了…看个电影而已，至于么。下次出门是不是要把手机绑她手上。",
+      "favorability": "52%",
+      "trueFeeling": "吓我一跳",
       "tokens": null
     }
   },
   {
-    "id": "mk02aq18n7y1rycc23r",
-    "turnId": "turn_mk02anirsdc9omuu98",
-    "text": "我今天下午三点零八分发给你的文件，你到现在都没回我",
+    "id": "mk5o2kmxyzzbnpq8doo",
+    "turnId": "turn_mk5o2i30zp6gb7t3m6",
+    "text": "我评估一下它的价值",
     "sender": "them",
-    "timestamp": 1767551116368,
+    "timestamp": 1767890018557,
     "voiceData": {
-      "status": "眉头紧锁，手指在手机屏幕上重重地敲击",
-      "inner": "她竟然在为那个男的说话？她听不出来我是在不高兴吗？",
-      "favorability": "48%",
-      "trueFeeling": "我不高兴了。",
+      "status": "靠在椅背上，捏了捏鼻梁",
+      "inner": "总算回了…看个电影而已，至于么。下次出门是不是要把手机绑她手上。",
+      "favorability": "52%",
+      "trueFeeling": "吓我一跳",
       "tokens": null
-    },
-    "summarized": true
+    }
   },
   {
-    "id": "mk02aqnvnr8bu4or6uj",
-    "turnId": "turn_mk02anirsdc9omuu98",
-    "text": "你觉得我应该是什么心情？",
+    "id": "mk5o2la9w6e62j7xxj",
+    "turnId": "turn_mk5o2i30zp6gb7t3m6",
+    "text": "看完了？",
     "sender": "them",
-    "timestamp": 1767551117184,
+    "timestamp": 1767890019398,
     "voiceData": {
-      "status": "眉头紧锁，手指在手机屏幕上重重地敲击",
-      "inner": "她竟然在为那个男的说话？她听不出来我是在不高兴吗？",
-      "favorability": "48%",
-      "trueFeeling": "我不高兴了。",
+      "status": "靠在椅背上，捏了捏鼻梁",
+      "inner": "总算回了…看个电影而已，至于么。下次出门是不是要把手机绑她手上。",
+      "favorability": "52%",
+      "trueFeeling": "吓我一跳",
       "tokens": null
-    },
-    "summarized": true
+    }
   },
   {
-    "id": "mk02cnfq9qm24fcyapv",
-    "text": "什么心情？",
+    "id": "mk5o45ednlt126qhkdi",
+    "text": "罗小黑战记",
     "sender": "me",
-    "timestamp": 1767551206310,
-    "quote": null,
-    "summarized": true
+    "timestamp": 1767890092117,
+    "quote": null
   },
   {
-    "id": "mk02ghk71u7xwhqtwzc",
+    "id": "mk5o47idg7fyzt8810s",
+    "text": "刚刚看完呢",
+    "sender": "me",
+    "timestamp": 1767890094853,
+    "quote": null
+  },
+  {
+    "id": "mk5o4pkk3u2iki8t7dy",
+    "turnId": "turn_mk5o4pkk64hr9k1tkbm",
+    "text": "哦",
+    "sender": "them",
+    "timestamp": 1767890118260,
+    "voiceData": {
+      "status": "靠在椅背上，单手拿着手机打字",
+      "inner": "一部动画片而已…比我还重要？居然真的不回消息，胆子越来越大了。",
+      "favorability": "51%",
+      "trueFeeling": "快哄我。",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5o4q7nj0zqr0fz8a",
+    "turnId": "turn_mk5o4pkk64hr9k1tkbm",
+    "text": "一部动画电影",
+    "sender": "them",
+    "timestamp": 1767890119092,
+    "voiceData": {
+      "status": "靠在椅背上，单手拿着手机打字",
+      "inner": "一部动画片而已…比我还重要？居然真的不回消息，胆子越来越大了。",
+      "favorability": "51%",
+      "trueFeeling": "快哄我。",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5o4quy6e8ziao7ktl",
+    "turnId": "turn_mk5o4pkk64hr9k1tkbm",
+    "text": "让你直接忘了手机的存在",
+    "sender": "them",
+    "timestamp": 1767890119932,
+    "voiceData": {
+      "status": "靠在椅背上，单手拿着手机打字",
+      "inner": "一部动画片而已…比我还重要？居然真的不回消息，胆子越来越大了。",
+      "favorability": "51%",
+      "trueFeeling": "快哄我。",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5o4ri9rxbumxdudj",
+    "turnId": "turn_mk5o4pkk64hr9k1tkbm",
+    "text": "还忘了我",
+    "sender": "them",
+    "timestamp": 1767890120772,
+    "voiceData": {
+      "status": "靠在椅背上，单手拿着手机打字",
+      "inner": "一部动画片而已…比我还重要？居然真的不回消息，胆子越来越大了。",
+      "favorability": "51%",
+      "trueFeeling": "快哄我。",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5o4s5ivcd499nud0m",
+    "turnId": "turn_mk5o4pkk64hr9k1tkbm",
+    "text": "嗯",
+    "sender": "them",
+    "timestamp": 1767890121610,
+    "voiceData": {
+      "status": "靠在椅背上，单手拿着手机打字",
+      "inner": "一部动画片而已…比我还重要？居然真的不回消息，胆子越来越大了。",
+      "favorability": "51%",
+      "trueFeeling": "快哄我。",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5o4ss1qknh3hnkcoc",
+    "turnId": "turn_mk5o4pkk64hr9k1tkbm",
+    "text": "看来是旷世奇作",
+    "sender": "them",
+    "timestamp": 1767890122422,
+    "voiceData": {
+      "status": "靠在椅背上，单手拿着手机打字",
+      "inner": "一部动画片而已…比我还重要？居然真的不回消息，胆子越来越大了。",
+      "favorability": "51%",
+      "trueFeeling": "快哄我。",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5o5iypun0cdco14eo",
+    "text": "你怎么这么阴阳怪气",
+    "sender": "me",
+    "timestamp": 1767890156353,
+    "quote": null
+  },
+  {
+    "id": "mk5o5sagin1pssirhps",
     "type": "image",
     "isSticker": true,
-    "url": "https://i.postimg.cc/8582g9Ms/image.png",
-    "text": "[表情: 呆]",
+    "url": "https://i.postimg.cc/76wxw53K/temp-Image2-Una-WR.avif",
+    "text": "[表情: 这好吗？这不好]",
     "sender": "me",
-    "timestamp": 1767551385319
+    "timestamp": 1767890168441
   },
   {
-    "id": "mk02iaf91f9j6xleq18",
-    "turnId": "turn_mk02iaf9c36j0ry1rv",
-    "text": "没什么心情",
+    "id": "mk5o6fbrlc0tihoxl5c",
+    "turnId": "turn_mk5o6fbr6053msn0f03",
+    "text": "有吗",
     "sender": "them",
-    "timestamp": 1767551469381,
+    "timestamp": 1767890198295,
     "voiceData": {
-      "status": "烦躁地松了松领带，盯着手机屏幕，眉头紧锁",
-      "inner": "笨蛋，就不能多关心我一点吗？",
-      "favorability": "53%",
-      "trueFeeling": "",
+      "status": "靠在办公椅上，单手拿着手机",
+      "inner": "阴阳怪气？我说的难道不是事实？一部破动画片而已，至于么。居然还敢反过来指责我。",
+      "favorability": "51%",
+      "trueFeeling": "我很不爽。",
       "tokens": null
-    },
-    "summarized": true
+    }
   },
   {
-    "id": "mk02ib1m8v6b8xj25h",
-    "turnId": "turn_mk02iaf9c36j0ry1rv",
-    "text": "就是感觉我的工作重要性",
+    "id": "mk5o6fytpo7wn9xxxxa",
+    "turnId": "turn_mk5o6fbr6053msn0f03",
+    "text": "我只是在进行合理的逻辑推断",
     "sender": "them",
-    "timestamp": 1767551470187,
+    "timestamp": 1767890199126,
     "voiceData": {
-      "status": "烦躁地松了松领带，盯着手机屏幕，眉头紧锁",
-      "inner": "笨蛋，就不能多关心我一点吗？",
-      "favorability": "53%",
-      "trueFeeling": "",
+      "status": "靠在办公椅上，单手拿着手机",
+      "inner": "阴阳怪气？我说的难道不是事实？一部破动画片而已，至于么。居然还敢反过来指责我。",
+      "favorability": "51%",
+      "trueFeeling": "我很不爽。",
       "tokens": null
-    },
-    "summarized": true
+    }
   },
   {
-    "id": "mk02iboefczd1fg8xho",
-    "turnId": "turn_mk02iaf9c36j0ry1rv",
-    "text": "可能还不如一个穿蓝白条纹衬衫的陌生男性",
+    "id": "mk5o6gmcot6fxmvh6l",
+    "turnId": "turn_mk5o6fbr6053msn0f03",
+    "text": "一部电影",
     "sender": "them",
-    "timestamp": 1767551471008,
+    "timestamp": 1767890199974,
     "voiceData": {
-      "status": "烦躁地松了松领带，盯着手机屏幕，眉头紧锁",
-      "inner": "笨蛋，就不能多关心我一点吗？",
-      "favorability": "53%",
-      "trueFeeling": "",
+      "status": "靠在办公椅上，单手拿着手机",
+      "inner": "阴阳怪气？我说的难道不是事实？一部破动画片而已，至于么。居然还敢反过来指责我。",
+      "favorability": "51%",
+      "trueFeeling": "我很不爽。",
       "tokens": null
-    },
-    "summarized": true
+    }
   },
   {
-    "id": "mk02icb4obwvy9p4pt",
-    "turnId": "turn_mk02iaf9c36j0ry1rv",
-    "text": "导致我今天多加了48分钟的班",
+    "id": "mk5o6h9itx9h5zht54",
+    "turnId": "turn_mk5o6fbr6053msn0f03",
+    "text": "能让你失联将近两个小时",
     "sender": "them",
-    "timestamp": 1767551471827,
+    "timestamp": 1767890200809,
     "voiceData": {
-      "status": "烦躁地松了松领带，盯着手机屏幕，眉头紧锁",
-      "inner": "笨蛋，就不能多关心我一点吗？",
-      "favorability": "53%",
-      "trueFeeling": "",
+      "status": "靠在办公椅上，单手拿着手机",
+      "inner": "阴阳怪气？我说的难道不是事实？一部破动画片而已，至于么。居然还敢反过来指责我。",
+      "favorability": "51%",
+      "trueFeeling": "我很不爽。",
       "tokens": null
-    },
-    "summarized": true
+    }
   },
   {
-    "id": "mk02icxuz56ffxyluwa",
-    "turnId": "turn_mk02iaf9c36j0ry1rv",
-    "text": "你说呢？",
+    "id": "mk5o6hwmx3o2n7rp11",
+    "turnId": "turn_mk5o6fbr6053msn0f03",
+    "text": "证明它对你的吸引力远高于手机",
     "sender": "them",
-    "timestamp": 1767551472646,
+    "timestamp": 1767890201642,
     "voiceData": {
-      "status": "烦躁地松了松领带，盯着手机屏幕，眉头紧锁",
-      "inner": "笨蛋，就不能多关心我一点吗？",
-      "favorability": "53%",
-      "trueFeeling": "",
+      "status": "靠在办公椅上，单手拿着手机",
+      "inner": "阴阳怪气？我说的难道不是事实？一部破动画片而已，至于么。居然还敢反过来指责我。",
+      "favorability": "51%",
+      "trueFeeling": "我很不爽。",
       "tokens": null
-    },
-    "summarized": true
+    }
   },
   {
-    "id": "mk02jh96b32r2c7lk4",
-    "text": "我做什么了啊？",
+    "id": "mk5o6ij5l1wcd4qzwz",
+    "turnId": "turn_mk5o6fbr6053msn0f03",
+    "text": "以及手机里的我",
+    "sender": "them",
+    "timestamp": 1767890202454,
+    "voiceData": {
+      "status": "靠在办公椅上，单手拿着手机",
+      "inner": "阴阳怪气？我说的难道不是事实？一部破动画片而已，至于么。居然还敢反过来指责我。",
+      "favorability": "51%",
+      "trueFeeling": "我很不爽。",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5o6j6f7g044h8z51f",
+    "turnId": "turn_mk5o6fbr6053msn0f03",
+    "text": "这个结论有问题？",
+    "sender": "them",
+    "timestamp": 1767890203293,
+    "voiceData": {
+      "status": "靠在办公椅上，单手拿着手机",
+      "inner": "阴阳怪气？我说的难道不是事实？一部破动画片而已，至于么。居然还敢反过来指责我。",
+      "favorability": "51%",
+      "trueFeeling": "我很不爽。",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5o71pirmd3wip2nvq",
+    "text": "对啊",
     "sender": "me",
-    "timestamp": 1767551524890,
-    "quote": null,
-    "summarized": true
+    "timestamp": 1767890227302,
+    "quote": null
   },
   {
-    "id": "mk02jom3u6tjdw7na1",
-    "text": "不是我你就不加班了吗？",
+    "id": "mk5o73k3ak6jstklssp",
+    "text": "你说的没错",
     "sender": "me",
-    "timestamp": 1767551534427,
-    "quote": null,
-    "summarized": true
+    "timestamp": 1767890229700,
+    "quote": null
   },
   {
-    "id": "mk02jvnu5fri8uog05",
-    "text": "什么都怪我",
+    "id": "mk5o7masuga5fq5fba",
+    "turnId": "turn_mk5o7masgqvt7q4oaug",
+    "text": "行",
+    "sender": "them",
+    "timestamp": 1767890253988,
+    "voiceData": {
+      "status": "将手机扔到一旁的沙发垫上，过了两秒又拿了回来",
+      "inner": "行，你有理。我说不过你。但我就不高兴了，你能怎么样。",
+      "favorability": "49%",
+      "trueFeeling": "",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5o7mxyowzy9hfqf1",
+    "turnId": "turn_mk5o7masgqvt7q4oaug",
+    "text": "你还挺理直气壮",
+    "sender": "them",
+    "timestamp": 1767890254823,
+    "voiceData": {
+      "status": "将手机扔到一旁的沙发垫上，过了两秒又拿了回来",
+      "inner": "行，你有理。我说不过你。但我就不高兴了，你能怎么样。",
+      "favorability": "49%",
+      "trueFeeling": "",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5o7nkv9ggj9z5z72o",
+    "turnId": "turn_mk5o7masgqvt7q4oaug",
+    "text": "不早了",
+    "sender": "them",
+    "timestamp": 1767890255649,
+    "voiceData": {
+      "status": "将手机扔到一旁的沙发垫上，过了两秒又拿了回来",
+      "inner": "行，你有理。我说不过你。但我就不高兴了，你能怎么样。",
+      "favorability": "49%",
+      "trueFeeling": "",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5o7o7nnj04pt7sb6",
+    "turnId": "turn_mk5o7masgqvt7q4oaug",
+    "text": "睡觉",
+    "sender": "them",
+    "timestamp": 1767890256470,
+    "voiceData": {
+      "status": "将手机扔到一旁的沙发垫上，过了两秒又拿了回来",
+      "inner": "行，你有理。我说不过你。但我就不高兴了，你能怎么样。",
+      "favorability": "49%",
+      "trueFeeling": "",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5o8ezvtalyjd7p5wn",
+    "text": "这么早就睡啊？",
     "sender": "me",
-    "timestamp": 1767551543562,
-    "quote": null,
-    "summarized": true
+    "timestamp": 1767890291179,
+    "quote": null
   },
   {
-    "id": "mk02kbfq270lx9bzs19",
+    "id": "mk5o8otrnfsj1zofhfr",
+    "text": "你今天竟然不加班？",
+    "sender": "me",
+    "timestamp": 1767890303919,
+    "quote": null
+  },
+  {
+    "id": "mk5o8uywk06l43f9cgm",
+    "type": "image",
+    "isSticker": true,
+    "url": "https://i.postimg.cc/d1KbrgD3/temp-Imagezk5-Pbv.avif",
+    "text": "[表情: 挠唧唧（有点猥琐）]",
+    "sender": "me",
+    "timestamp": 1767890311880
+  },
+  {
+    "id": "mk5o9eqwmmp8xjtgvoo",
+    "turnId": "turn_mk5o9eqw2evwbkzfipd",
+    "text": "不加",
+    "sender": "them",
+    "timestamp": 1767890337512,
+    "voiceData": {
+      "status": "坐在床边，皱着眉看手机屏幕",
+      "inner": "胆子越来越大了，敢开这种玩笑",
+      "favorability": "52%",
+      "trueFeeling": "……有点可爱。",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5o9fe0eg9wuodd0e",
+    "turnId": "turn_mk5o9eqw2evwbkzfipd",
+    "text": "还有",
+    "sender": "them",
+    "timestamp": 1767890338345,
+    "voiceData": {
+      "status": "坐在床边，皱着眉看手机屏幕",
+      "inner": "胆子越来越大了，敢开这种玩笑",
+      "favorability": "52%",
+      "trueFeeling": "……有点可爱。",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5o9g1giduhp0jscm",
+    "turnId": "turn_mk5o9eqw2evwbkzfipd",
+    "text": "你发的什么表情",
+    "sender": "them",
+    "timestamp": 1767890339190,
+    "voiceData": {
+      "status": "坐在床边，皱着眉看手机屏幕",
+      "inner": "胆子越来越大了，敢开这种玩笑",
+      "favorability": "52%",
+      "trueFeeling": "……有点可爱。",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5o9goquw1lx24vg7",
+    "turnId": "turn_mk5o9eqw2evwbkzfipd",
+    "text": "手不想要了？",
+    "sender": "them",
+    "timestamp": 1767890340030,
+    "voiceData": {
+      "status": "坐在床边，皱着眉看手机屏幕",
+      "inner": "胆子越来越大了，敢开这种玩笑",
+      "favorability": "52%",
+      "trueFeeling": "……有点可爱。",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5o9hbx36kkot2z27q",
+    "turnId": "turn_mk5o9eqw2evwbkzfipd",
     "type": "image",
     "isSticker": true,
     "url": "https://i.postimg.cc/BQVQHQ3v/temp-Image6v-Ltb6.avif",
     "text": "[表情: 你小子]",
+    "sender": "them",
+    "timestamp": 1767890340865,
+    "voiceData": {
+      "status": "坐在床边，皱着眉看手机屏幕",
+      "inner": "胆子越来越大了，敢开这种玩笑",
+      "favorability": "52%",
+      "trueFeeling": "……有点可爱。",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5o9zp1fa5go22k85q",
+    "text": "怎么",
     "sender": "me",
-    "timestamp": 1767551564006
+    "timestamp": 1767890364661,
+    "quote": null
   },
   {
-    "id": "mk02ko95dfwaxpivyak",
-    "turnId": "turn_mk02ko95be9cf6koq94",
-    "text": "我没有怪你",
+    "id": "mk5oa8t7enzk0exgav9",
+    "text": "我还没有表情包自由了！",
+    "sender": "me",
+    "timestamp": 1767890376475,
+    "quote": null
+  },
+  {
+    "id": "mk5ob4t9i81ud49vwh",
+    "text": "天呐太阳打西边出来了",
+    "sender": "me",
+    "timestamp": 1767890417949,
+    "quote": {
+      "id": "mk5o9eqwmmp8xjtgvoo",
+      "text": "不加"
+    }
+  },
+  {
+    "id": "mk5obnc4d0fc51shdo",
+    "turnId": "turn_mk5obnc4wsqvmu8nd3",
+    "text": "表情包自由？",
     "sender": "them",
-    "timestamp": 1767551580617,
+    "timestamp": 1767890441956,
     "voiceData": {
-      "status": "拿起桌上的水杯，发现是凉的，眉头皱得更紧",
-      "inner": "我不是在怪你，我是在陈述一个事实，一个让我很不爽的事实",
-      "favorability": "52%",
+      "status": "靠在沙发上，扯了扯领带",
+      "inner": "就知道拿加班这事说我…除了工作就没别的可聊了？",
+      "favorability": "51%",
       "trueFeeling": "",
       "tokens": null
-    },
-    "summarized": true
+    }
   },
   {
-    "id": "mk02kovpmmawd66lu1",
-    "turnId": "turn_mk02ko95be9cf6koq94",
-    "text": "我只是在陈述一个事实",
+    "id": "mk5obnzacaq47jhhl5q",
+    "turnId": "turn_mk5obnc4wsqvmu8nd3",
+    "text": "你发的那种东西属于性骚扰",
     "sender": "them",
-    "timestamp": 1767551581430,
+    "timestamp": 1767890442791,
     "voiceData": {
-      "status": "拿起桌上的水杯，发现是凉的，眉头皱得更紧",
-      "inner": "我不是在怪你，我是在陈述一个事实，一个让我很不爽的事实",
-      "favorability": "52%",
+      "status": "靠在沙发上，扯了扯领带",
+      "inner": "就知道拿加班这事说我…除了工作就没别的可聊了？",
+      "favorability": "51%",
       "trueFeeling": "",
       "tokens": null
-    },
-    "summarized": true
+    }
   },
   {
-    "id": "mk02kpib69xljnmomoo",
-    "turnId": "turn_mk02ko95be9cf6koq94",
-    "text": "一个已发生且无法改变的，客观事实",
+    "id": "mk5obompyec62g7qprb",
+    "turnId": "turn_mk5obnc4wsqvmu8nd3",
+    "text": "我可以告你",
     "sender": "them",
-    "timestamp": 1767551582245,
+    "timestamp": 1767890443635,
     "voiceData": {
-      "status": "拿起桌上的水杯，发现是凉的，眉头皱得更紧",
-      "inner": "我不是在怪你，我是在陈述一个事实，一个让我很不爽的事实",
-      "favorability": "52%",
+      "status": "靠在沙发上，扯了扯领带",
+      "inner": "就知道拿加班这事说我…除了工作就没别的可聊了？",
+      "favorability": "51%",
       "trueFeeling": "",
       "tokens": null
-    },
-    "summarized": true
+    }
   },
   {
-    "id": "mk02kq4x5sctdajrdbn",
-    "turnId": "turn_mk02ko95be9cf6koq94",
-    "text": "如果你能早点回复",
+    "id": "mk5obp9y761tn3s5fmn",
+    "turnId": "turn_mk5obnc4wsqvmu8nd3",
+    "text": "还有",
     "sender": "them",
-    "timestamp": 1767551583060,
+    "timestamp": 1767890444473,
     "voiceData": {
-      "status": "拿起桌上的水杯，发现是凉的，眉头皱得更紧",
-      "inner": "我不是在怪你，我是在陈述一个事实，一个让我很不爽的事实",
-      "favorability": "52%",
+      "status": "靠在沙发上，扯了扯领带",
+      "inner": "就知道拿加班这事说我…除了工作就没别的可聊了？",
+      "favorability": "51%",
       "trueFeeling": "",
       "tokens": null
-    },
-    "summarized": true
+    }
   },
   {
-    "id": "mk02kqrhfhoeam54yjo",
-    "turnId": "turn_mk02ko95be9cf6koq94",
-    "text": "我就可以在下班前处理完后续",
+    "id": "mk5obpwpi3sudtsfc7",
+    "turnId": "turn_mk5obnc4wsqvmu8nd3",
+    "text": "我为什么非要加班",
     "sender": "them",
-    "timestamp": 1767551583873,
+    "timestamp": 1767890445293,
     "voiceData": {
-      "status": "拿起桌上的水杯，发现是凉的，眉头皱得更紧",
-      "inner": "我不是在怪你，我是在陈述一个事实，一个让我很不爽的事实",
-      "favorability": "52%",
+      "status": "靠在沙发上，扯了扯领带",
+      "inner": "就知道拿加班这事说我…除了工作就没别的可聊了？",
+      "favorability": "51%",
       "trueFeeling": "",
       "tokens": null
-    },
-    "summarized": true
+    }
   },
   {
-    "id": "mk02krdz3ag1nr4kz7v",
-    "turnId": "turn_mk02ko95be9cf6koq94",
-    "text": "而不是在办公室多坐将近一个小时，对着一个没有回应的对话框发呆",
+    "id": "mk5obqj752rdczotan",
+    "turnId": "turn_mk5obnc4wsqvmu8nd3",
+    "text": "在你眼里我就是个工作机器？",
     "sender": "them",
-    "timestamp": 1767551584684,
+    "timestamp": 1767890446104,
     "voiceData": {
-      "status": "拿起桌上的水杯，发现是凉的，眉头皱得更紧",
-      "inner": "我不是在怪你，我是在陈述一个事实，一个让我很不爽的事实",
-      "favorability": "52%",
+      "status": "靠在沙发上，扯了扯领带",
+      "inner": "就知道拿加班这事说我…除了工作就没别的可聊了？",
+      "favorability": "51%",
       "trueFeeling": "",
       "tokens": null
-    },
-    "summarized": true
+    }
   },
   {
-    "id": "mk02ks0l86ccgeuxmvp",
-    "turnId": "turn_mk02ko95be9cf6koq94",
-    "text": "这难道不是因果关系吗？",
+    "id": "mk5ocdbeeqcrwme28hr",
+    "text": "因为我就没怎么见过你不加班的时候",
+    "sender": "me",
+    "timestamp": 1767890475626,
+    "quote": null
+  },
+  {
+    "id": "mk5ocqk47wpbygmx7le",
+    "text": "不止",
+    "sender": "me",
+    "timestamp": 1767890492788,
+    "quote": {
+      "id": "mk5obqj752rdczotan",
+      "text": "在你眼里我就是个工作机器？"
+    }
+  },
+  {
+    "id": "mk5od2a76vwgi3nvbx6",
+    "text": "还是个毒舌机器",
+    "sender": "me",
+    "timestamp": 1767890507983,
+    "quote": null
+  },
+  {
+    "id": "mk5odhsl0bvogn56dri7",
+    "turnId": "turn_mk5odhslymh73yoh1uh",
+    "text": "毒舌机器？",
     "sender": "them",
-    "timestamp": 1767551585499,
+    "timestamp": 1767890528085,
     "voiceData": {
-      "status": "拿起桌上的水杯，发现是凉的，眉头皱得更紧",
-      "inner": "我不是在怪你，我是在陈述一个事实，一个让我很不爽的事实",
-      "favorability": "52%",
+      "status": "靠在沙发上，单手拿着手机打字",
+      "inner": "机器？我就只是个机器？在你眼里我除了工作和嘴巴毒就没别的了？",
+      "favorability": "50%",
       "trueFeeling": "",
       "tokens": null
-    },
-    "summarized": true
+    }
   },
   {
-    "id": "mk02ksn9i1va3wgvla",
-    "turnId": "turn_mk02ko95be9cf6koq94",
-    "text": "很清晰的逻辑链",
+    "id": "mk5odifqjrvhjtncfch",
+    "turnId": "turn_mk5odhslymh73yoh1uh",
+    "text": "那也是为了纠正某些人的愚蠢言行",
     "sender": "them",
-    "timestamp": 1767551586316,
+    "timestamp": 1767890528920,
     "voiceData": {
-      "status": "拿起桌上的水杯，发现是凉的，眉头皱得更紧",
-      "inner": "我不是在怪你，我是在陈述一个事实，一个让我很不爽的事实",
-      "favorability": "52%",
+      "status": "靠在沙发上，单手拿着手机打字",
+      "inner": "机器？我就只是个机器？在你眼里我除了工作和嘴巴毒就没别的了？",
+      "favorability": "50%",
       "trueFeeling": "",
       "tokens": null
-    },
-    "summarized": true
+    }
   },
   {
-    "id": "mk02kt9u2d4qmtnjkrw",
-    "turnId": "turn_mk02ko95be9cf6koq94",
-    "type": "image",
-    "url": "https://i.postimg.cc/HnMKZ2VX/image.jpg",
-    "text": "[表情: 理直气壮]",
+    "id": "mk5odj320nmohbddyzh",
+    "turnId": "turn_mk5odhslymh73yoh1uh",
+    "text": "看来你对我的印象就只有这个",
     "sender": "them",
-    "timestamp": 1767551587130,
+    "timestamp": 1767890529760,
     "voiceData": {
-      "status": "拿起桌上的水杯，发现是凉的，眉头皱得更紧",
-      "inner": "我不是在怪你，我是在陈述一个事实，一个让我很不爽的事实",
+      "status": "靠在沙发上，单手拿着手机打字",
+      "inner": "机器？我就只是个机器？在你眼里我除了工作和嘴巴毒就没别的了？",
+      "favorability": "50%",
+      "trueFeeling": "",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5odjqc1mdkk56prbvk",
+    "turnId": "turn_mk5odhslymh73yoh1uh",
+    "text": "还有呢？",
+    "sender": "them",
+    "timestamp": 1767890530599,
+    "voiceData": {
+      "status": "靠在沙发上，单手拿着手机打字",
+      "inner": "机器？我就只是个机器？在你眼里我除了工作和嘴巴毒就没别的了？",
+      "favorability": "50%",
+      "trueFeeling": "",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5oe9vmpw1qs16g89",
+    "text": "找茬机器",
+    "sender": "me",
+    "timestamp": 1767890564482,
+    "quote": null
+  },
+  {
+    "id": "mk5oedejk8u15n54t8l",
+    "text": "生气机器",
+    "sender": "me",
+    "timestamp": 1767890569051,
+    "quote": null
+  },
+  {
+    "id": "mk5oenz4fczznin6w4b",
+    "text": "难哄机器",
+    "sender": "me",
+    "timestamp": 1767890582752,
+    "quote": null
+  },
+  {
+    "id": "mk5of71ml7y2xcysodi",
+    "turnId": "turn_mk5of71muyte496g5go",
+    "text": "我在你心里",
+    "sender": "them",
+    "timestamp": 1767890607466,
+    "voiceData": {
+      "status": "放下手机，眉头皱了起来",
+      "inner": "她到底是怎么看我的…除了这些乱七八糟的机器，就没有别的了吗？",
+      "favorability": "51%",
+      "trueFeeling": "快说点好听的。",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5of7o8ngonju38xc",
+    "turnId": "turn_mk5of71muyte496g5go",
+    "text": "就是一堆冰冷的机器",
+    "sender": "them",
+    "timestamp": 1767890608281,
+    "voiceData": {
+      "status": "放下手机，眉头皱了起来",
+      "inner": "她到底是怎么看我的…除了这些乱七八糟的机器，就没有别的了吗？",
+      "favorability": "51%",
+      "trueFeeling": "快说点好听的。",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5of8bibgzjdgq938",
+    "turnId": "turn_mk5of71muyte496g5go",
+    "text": "没有一点优点？",
+    "sender": "them",
+    "timestamp": 1767890609120,
+    "voiceData": {
+      "status": "放下手机，眉头皱了起来",
+      "inner": "她到底是怎么看我的…除了这些乱七八糟的机器，就没有别的了吗？",
+      "favorability": "51%",
+      "trueFeeling": "快说点好听的。",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5of8ywxayhid0e1y",
+    "turnId": "turn_mk5of71muyte496g5go",
+    "text": "是吗",
+    "sender": "them",
+    "timestamp": 1767890609963,
+    "voiceData": {
+      "status": "放下手机，眉头皱了起来",
+      "inner": "她到底是怎么看我的…除了这些乱七八糟的机器，就没有别的了吗？",
+      "favorability": "51%",
+      "trueFeeling": "快说点好听的。",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5ofo7n2pxy3o321vf",
+    "text": "嘿嘿",
+    "sender": "me",
+    "timestamp": 1767890629715,
+    "quote": null
+  },
+  {
+    "id": "mk5ofvjihle9wes56xc",
+    "text": "你就这么想听我夸你？",
+    "sender": "me",
+    "timestamp": 1767890639214,
+    "quote": null
+  },
+  {
+    "id": "mk5ogh2qs1l7l3aaiz8",
+    "turnId": "turn_mk5ogh2qqvp39tgiyro",
+    "text": "我没有",
+    "sender": "them",
+    "timestamp": 1767890667122,
+    "voiceData": {
+      "status": "靠在沙发上，单手拿着手机打字",
+      "inner": "总算开窍了，快点夸，我等着呢。",
+      "favorability": "52%",
+      "trueFeeling": "我想听。",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5oghpx7umyr689q9",
+    "turnId": "turn_mk5ogh2qqvp39tgiyro",
+    "text": "别自作多情",
+    "sender": "them",
+    "timestamp": 1767890667958,
+    "voiceData": {
+      "status": "靠在沙发上，单手拿着手机打字",
+      "inner": "总算开窍了，快点夸，我等着呢。",
+      "favorability": "52%",
+      "trueFeeling": "我想听。",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5ogid8505d3mxbtlu",
+    "turnId": "turn_mk5ogh2qqvp39tgiyro",
+    "text": "不过",
+    "sender": "them",
+    "timestamp": 1767890668798,
+    "voiceData": {
+      "status": "靠在沙发上，单手拿着手机打字",
+      "inner": "总算开窍了，快点夸，我等着呢。",
+      "favorability": "52%",
+      "trueFeeling": "我想听。",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5ogj07e3d72um1vx",
+    "turnId": "turn_mk5ogh2qqvp39tgiyro",
+    "text": "既然你都这么问了",
+    "sender": "them",
+    "timestamp": 1767890669626,
+    "voiceData": {
+      "status": "靠在沙发上，单手拿着手机打字",
+      "inner": "总算开窍了，快点夸，我等着呢。",
+      "favorability": "52%",
+      "trueFeeling": "我想听。",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5ogjmuidz605yecue",
+    "turnId": "turn_mk5ogh2qqvp39tgiyro",
+    "text": "也不是不能给你个机会表现一下",
+    "sender": "them",
+    "timestamp": 1767890670442,
+    "voiceData": {
+      "status": "靠在沙发上，单手拿着手机打字",
+      "inner": "总算开窍了，快点夸，我等着呢。",
+      "favorability": "52%",
+      "trueFeeling": "我想听。",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5ogka1cm3sz1y59r",
+    "turnId": "turn_mk5ogh2qqvp39tgiyro",
+    "text": "说吧",
+    "sender": "them",
+    "timestamp": 1767890671278,
+    "voiceData": {
+      "status": "靠在沙发上，单手拿着手机打字",
+      "inner": "总算开窍了，快点夸，我等着呢。",
+      "favorability": "52%",
+      "trueFeeling": "我想听。",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5ogkxcz4c66qyghop",
+    "turnId": "turn_mk5ogh2qqvp39tgiyro",
+    "text": "我听着",
+    "sender": "them",
+    "timestamp": 1767890672118,
+    "voiceData": {
+      "status": "靠在沙发上，单手拿着手机打字",
+      "inner": "总算开窍了，快点夸，我等着呢。",
+      "favorability": "52%",
+      "trueFeeling": "我想听。",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5oh4vonubw25287ld",
+    "text": "？？",
+    "sender": "me",
+    "timestamp": 1767890697972,
+    "quote": null
+  },
+  {
+    "id": "mk5ohkrne5jtg171p7g",
+    "text": "怎么你还纡尊降贵听我夸你了是吧",
+    "sender": "me",
+    "timestamp": 1767890718563,
+    "quote": null
+  },
+  {
+    "id": "mk5oho3gdof447xxc1p",
+    "text": "脸皮这么厚？",
+    "sender": "me",
+    "timestamp": 1767890722876,
+    "quote": null
+  },
+  {
+    "id": "mk5oi4dutujm50ixm",
+    "turnId": "turn_mk5oi4dumdp7jqco8bd",
+    "text": "我只是在进行一项事实调查",
+    "sender": "them",
+    "timestamp": 1767890743986,
+    "voiceData": {
+      "status": "坐在沙发上，手指无意识地敲着手机背面",
+      "inner": "夸我一句有那么难吗？非要拐弯抹角的。",
       "favorability": "52%",
       "trueFeeling": "",
       "tokens": null
     }
   },
   {
-    "id": "mk02mecmktxagnjzxtk",
-    "text": "唔",
-    "sender": "me",
-    "timestamp": 1767551661094,
-    "quote": null,
-    "summarized": true
-  },
-  {
-    "id": "mk02mkegh3b0d4uzirc",
-    "text": "我回不回复对你这么重要？",
-    "sender": "me",
-    "timestamp": 1767551668936,
-    "quote": null,
-    "summarized": true
-  },
-  {
-    "id": "mk02mxzy99v4j4cbo7m",
-    "turnId": "turn_mk02mxzyiq8wuqbzgy",
-    "text": "不然呢？",
+    "id": "mk5oi50vvqypwip6ti",
+    "turnId": "turn_mk5oi4dumdp7jqco8bd",
+    "text": "关于我在你心里的正面形象",
     "sender": "them",
-    "timestamp": 1767551686558,
+    "timestamp": 1767890744816,
     "voiceData": {
-      "status": "身体向后靠在椅背上，双臂环胸，眉头微皱",
-      "inner": "这还用问吗？当然重要。重要的不是回复，是你。",
-      "favorability": "55%",
+      "status": "坐在沙发上，手指无意识地敲着手机背面",
+      "inner": "夸我一句有那么难吗？非要拐弯抹角的。",
+      "favorability": "52%",
       "trueFeeling": "",
       "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk02mymjb979e7dz9uk",
-    "turnId": "turn_mk02mxzyiq8wuqbzgy",
-    "text": "你以为我是在和你进行什么无关紧要的闲聊？",
-    "sender": "them",
-    "timestamp": 1767551687372,
-    "voiceData": {
-      "status": "身体向后靠在椅背上，双臂环胸，眉头微皱",
-      "inner": "这还用问吗？当然重要。重要的不是回复，是你。",
-      "favorability": "55%",
-      "trueFeeling": "",
-      "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk02mz95mu0llzt67f",
-    "turnId": "turn_mk02mxzyiq8wuqbzgy",
-    "text": "我发给你的每一条消息，都默认你需要第一时间处理",
-    "sender": "them",
-    "timestamp": 1767551688187,
-    "voiceData": {
-      "status": "身体向后靠在椅背上，双臂环胸，眉头微皱",
-      "inner": "这还用问吗？当然重要。重要的不是回复，是你。",
-      "favorability": "55%",
-      "trueFeeling": "",
-      "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk02mzvrt0u233or9xk",
-    "turnId": "turn_mk02mxzyiq8wuqbzgy",
-    "text": "这是我们之间…二十多年的默契",
-    "sender": "them",
-    "timestamp": 1767551689002,
-    "voiceData": {
-      "status": "身体向后靠在椅背上，双臂环胸，眉头微皱",
-      "inner": "这还用问吗？当然重要。重要的不是回复，是你。",
-      "favorability": "55%",
-      "trueFeeling": "",
-      "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk02n0i6g9icx68a3e",
-    "turnId": "turn_mk02mxzyiq8wuqbzgy",
-    "text": "还是说",
-    "sender": "them",
-    "timestamp": 1767551689810,
-    "voiceData": {
-      "status": "身体向后靠在椅背上，双臂环胸，眉头微皱",
-      "inner": "这还用问吗？当然重要。重要的不是回复，是你。",
-      "favorability": "55%",
-      "trueFeeling": "",
-      "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk02n14sqxtq6hpp1oq",
-    "turnId": "turn_mk02mxzyiq8wuqbzgy",
-    "text": "你的“默契”额度，已经分配给别人了？",
-    "sender": "them",
-    "timestamp": 1767551690625,
-    "voiceData": {
-      "status": "身体向后靠在椅背上，双臂环胸，眉头微皱",
-      "inner": "这还用问吗？当然重要。重要的不是回复，是你。",
-      "favorability": "55%",
-      "trueFeeling": "",
-      "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk02o5jggvjks7zd7ke",
-    "text": "好霸道！",
-    "sender": "me",
-    "timestamp": 1767551742988,
-    "quote": null,
-    "summarized": true
-  },
-  {
-    "id": "mk02ofkwzk3kdhusfkc",
-    "text": "还能有谁啊",
-    "sender": "me",
-    "timestamp": 1767551756000,
-    "quote": {
-      "id": "mk02n14sqxtq6hpp1oq",
-      "text": "你的“默契”额度，已经分配给别人了？"
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk02or8gxgxype2v5nq",
-    "text": "没有别人像你一样蛮横",
-    "sender": "me",
-    "timestamp": 1767551771104,
-    "quote": null,
-    "summarized": true
-  },
-  {
-    "id": "mk02pav4z0smyiv9n3f",
-    "type": "image",
-    "isSticker": true,
-    "url": "https://i.postimg.cc/TwZw5xSG/image.jpg",
-    "text": "[表情: 大眼瞪小眼]",
-    "sender": "me",
-    "timestamp": 1767551796544
-  },
-  {
-    "id": "mk02ppgvvmdmfe3x9t",
-    "turnId": "turn_mk02ppgv2mm5xkbchs5",
-    "text": "蛮横？",
-    "sender": "them",
-    "timestamp": 1767551815471,
-    "voiceData": {
-      "status": "手指停在发送键上，眉头微皱",
-      "inner": "为什么她感觉不到我的在意，反而觉得是蛮横？",
-      "favorability": "48%",
-      "trueFeeling": "我不高兴了",
-      "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk02pq3fwwkr6vk6mvd",
-    "turnId": "turn_mk02ppgv2mm5xkbchs5",
-    "text": "我以为这叫关心",
-    "sender": "them",
-    "timestamp": 1767551816284,
-    "voiceData": {
-      "status": "手指停在发送键上，眉头微皱",
-      "inner": "为什么她感觉不到我的在意，反而觉得是蛮横？",
-      "favorability": "48%",
-      "trueFeeling": "我不高兴了",
-      "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk02pqq1wwunetypds",
-    "turnId": "turn_mk02ppgv2mm5xkbchs5",
-    "text": "看来我的定义需要更新",
-    "sender": "them",
-    "timestamp": 1767551817099,
-    "voiceData": {
-      "status": "手指停在发送键上，眉头微皱",
-      "inner": "为什么她感觉不到我的在意，反而觉得是蛮横？",
-      "favorability": "48%",
-      "trueFeeling": "我不高兴了",
-      "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk02prcjisvlqms0dgn",
-    "turnId": "turn_mk02ppgv2mm5xkbchs5",
-    "text": "所以",
-    "sender": "them",
-    "timestamp": 1767551817910,
-    "voiceData": {
-      "status": "手指停在发送键上，眉头微皱",
-      "inner": "为什么她感觉不到我的在意，反而觉得是蛮横？",
-      "favorability": "48%",
-      "trueFeeling": "我不高兴了",
-      "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk02prz5zzzu3q5spjn",
-    "turnId": "turn_mk02ppgv2mm5xkbchs5",
-    "text": "只有我对你“蛮横”",
-    "sender": "them",
-    "timestamp": 1767551818725,
-    "voiceData": {
-      "status": "手指停在发送键上，眉头微皱",
-      "inner": "为什么她感觉不到我的在意，反而觉得是蛮横？",
-      "favorability": "48%",
-      "trueFeeling": "我不高兴了",
-      "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk02pslsu2z8x3zqd8s",
-    "turnId": "turn_mk02ppgv2mm5xkbchs5",
-    "text": "别人对你都很温柔？",
-    "sender": "them",
-    "timestamp": 1767551819541,
-    "voiceData": {
-      "status": "手指停在发送键上，眉头微皱",
-      "inner": "为什么她感觉不到我的在意，反而觉得是蛮横？",
-      "favorability": "48%",
-      "trueFeeling": "我不高兴了",
-      "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk02pt8e5mpnsql5okw",
-    "turnId": "turn_mk02ppgv2mm5xkbchs5",
-    "text": "比如那个蓝衬衫？",
-    "sender": "them",
-    "timestamp": 1767551820356,
-    "voiceData": {
-      "status": "手指停在发送键上，眉头微皱",
-      "inner": "为什么她感觉不到我的在意，反而觉得是蛮横？",
-      "favorability": "48%",
-      "trueFeeling": "我不高兴了",
-      "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk02qp7xtddvv5u8gz",
-    "text": "咱能不提他吗",
-    "sender": "me",
-    "timestamp": 1767551861805,
-    "quote": null,
-    "summarized": true
-  },
-  {
-    "id": "mk02qss53jic6c1uf6u",
-    "text": "你是不是想太多了",
-    "sender": "me",
-    "timestamp": 1767551866421,
-    "quote": null,
-    "summarized": true
-  },
-  {
-    "id": "mk02qxfal9xzkmtl99i",
-    "text": "我和他只见了一面",
-    "sender": "me",
-    "timestamp": 1767551872438,
-    "quote": null,
-    "summarized": true
-  },
-  {
-    "id": "mk02rfiaduu0zatz6z8",
-    "text": "不过我看出来他确实对我有好感",
-    "sender": "me",
-    "timestamp": 1767551895874,
-    "quote": null,
-    "summarized": true
-  },
-  {
-    "id": "mk02rnmzooj30g9223e",
-    "text": "那也不代表我就能看上他了呀！",
-    "sender": "me",
-    "timestamp": 1767551906411,
-    "quote": null,
-    "summarized": true
-  },
-  {
-    "id": "mk02ucknlqpqyaypk4",
-    "turnId": "turn_mk02uckn5w0gmw1ye44",
-    "text": "哦",
-    "sender": "them",
-    "timestamp": 1767552032039,
-    "voiceData": {
-      "status": "手指在手机屏幕上悬停了片刻，眉头微皱",
-      "inner": "所以你早就知道，还放任他？这让我更不爽了",
-      "favorability": "55%",
-      "trueFeeling": "",
-      "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk02ud703ka26uzxec",
-    "turnId": "turn_mk02uckn5w0gmw1ye44",
-    "text": "你看出来了",
-    "sender": "them",
-    "timestamp": 1767552032845,
-    "voiceData": {
-      "status": "手指在手机屏幕上悬停了片刻，眉头微皱",
-      "inner": "所以你早就知道，还放任他？这让我更不爽了",
-      "favorability": "55%",
-      "trueFeeling": "",
-      "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk02udtqok3n0ujmyp",
-    "turnId": "turn_mk02uckn5w0gmw1ye44",
-    "text": "看出来了，还跟他笑得那么开心？",
-    "sender": "them",
-    "timestamp": 1767552033664,
-    "voiceData": {
-      "status": "手指在手机屏幕上悬停了片刻，眉头微皱",
-      "inner": "所以你早就知道，还放任他？这让我更不爽了",
-      "favorability": "55%",
-      "trueFeeling": "",
-      "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk02uegh23m8lwo9pfl",
-    "turnId": "turn_mk02uckn5w0gmw1ye44",
-    "text": "所以你是在享受这种“好感”？",
-    "sender": "them",
-    "timestamp": 1767552034484,
-    "voiceData": {
-      "status": "手指在手机屏幕上悬停了片刻，眉头微皱",
-      "inner": "所以你早就知道，还放任他？这让我更不爽了",
-      "favorability": "55%",
-      "trueFeeling": "",
-      "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk02uf37h7z11c0glrv",
-    "turnId": "turn_mk02uckn5w0gmw1ye44",
-    "text": "“不代表”",
-    "sender": "them",
-    "timestamp": 1767552035303,
-    "voiceData": {
-      "status": "手指在手机屏幕上悬停了片刻，眉头微皱",
-      "inner": "所以你早就知道，还放任他？这让我更不爽了",
-      "favorability": "55%",
-      "trueFeeling": "",
-      "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk02ufpz16ymlbzn7fe",
-    "turnId": "turn_mk02uckn5w0gmw1ye44",
-    "text": "……这是个很有弹性的词",
-    "sender": "them",
-    "timestamp": 1767552036124,
-    "voiceData": {
-      "status": "手指在手机屏幕上悬停了片刻，眉头微皱",
-      "inner": "所以你早就知道，还放任他？这让我更不爽了",
-      "favorability": "55%",
-      "trueFeeling": "",
-      "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk02ugcolo2wxqzw1nc",
-    "turnId": "turn_mk02uckn5w0gmw1ye44",
-    "text": "意味着可能性",
-    "sender": "them",
-    "timestamp": 1767552036942,
-    "voiceData": {
-      "status": "手指在手机屏幕上悬停了片刻，眉头微皱",
-      "inner": "所以你早就知道，还放任他？这让我更不爽了",
-      "favorability": "55%",
-      "trueFeeling": "",
-      "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk02ugzfjeluhubknbn",
-    "turnId": "turn_mk02uckn5w0gmw1ye44",
-    "text": "我不喜欢可能性",
-    "sender": "them",
-    "timestamp": 1767552037762,
-    "voiceData": {
-      "status": "手指在手机屏幕上悬停了片刻，眉头微皱",
-      "inner": "所以你早就知道，还放任他？这让我更不爽了",
-      "favorability": "55%",
-      "trueFeeling": "",
-      "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "summary_mk02v2k9o2z4q4vip9q",
-    "type": "summary",
-    "text": "纪言之因用户未及时回复工作而质问对方，话题迅速转向其对用户与“蓝衬衫”男性互动的嫉妒与不满，暴露出强烈的占有欲。\n\n【事件锚点】纪言之首次明确提及两人间存在“二十多年的默契”，并以此作为要求对方优先回应的基石。",
-    "timestamp": 1767552065721,
-    "summarizedMessageIds": [
-      "mk02aq18n7y1rycc23r",
-      "mk02aqnvnr8bu4or6uj",
-      "mk02cnfq9qm24fcyapv",
-      "mk02iaf91f9j6xleq18",
-      "mk02ib1m8v6b8xj25h",
-      "mk02iboefczd1fg8xho",
-      "mk02icb4obwvy9p4pt",
-      "mk02icxuz56ffxyluwa",
-      "mk02jh96b32r2c7lk4",
-      "mk02jom3u6tjdw7na1",
-      "mk02jvnu5fri8uog05",
-      "mk02ko95dfwaxpivyak",
-      "mk02kovpmmawd66lu1",
-      "mk02kpib69xljnmomoo",
-      "mk02kq4x5sctdajrdbn",
-      "mk02kqrhfhoeam54yjo",
-      "mk02krdz3ag1nr4kz7v",
-      "mk02ks0l86ccgeuxmvp",
-      "mk02ksn9i1va3wgvla",
-      "mk02mecmktxagnjzxtk",
-      "mk02mkegh3b0d4uzirc",
-      "mk02mxzy99v4j4cbo7m",
-      "mk02mymjb979e7dz9uk",
-      "mk02mz95mu0llzt67f",
-      "mk02mzvrt0u233or9xk",
-      "mk02n0i6g9icx68a3e",
-      "mk02n14sqxtq6hpp1oq",
-      "mk02o5jggvjks7zd7ke",
-      "mk02ofkwzk3kdhusfkc",
-      "mk02or8gxgxype2v5nq",
-      "mk02ppgvvmdmfe3x9t",
-      "mk02pq3fwwkr6vk6mvd",
-      "mk02pqq1wwunetypds",
-      "mk02prcjisvlqms0dgn",
-      "mk02prz5zzzu3q5spjn",
-      "mk02pslsu2z8x3zqd8s",
-      "mk02pt8e5mpnsql5okw",
-      "mk02qp7xtddvv5u8gz",
-      "mk02qss53jic6c1uf6u",
-      "mk02qxfal9xzkmtl99i",
-      "mk02rfiaduu0zatz6z8",
-      "mk02rnmzooj30g9223e",
-      "mk02ucknlqpqyaypk4",
-      "mk02ud703ka26uzxec",
-      "mk02udtqok3n0ujmyp",
-      "mk02uegh23m8lwo9pfl",
-      "mk02uf37h7z11c0glrv",
-      "mk02ufpz16ymlbzn7fe",
-      "mk02ugcolo2wxqzw1nc",
-      "mk02ugzfjeluhubknbn"
-    ]
-  },
-  {
-    "id": "mk02wlykcr1ibahjkz",
-    "text": "噗",
-    "sender": "me",
-    "timestamp": 1767552137516,
-    "quote": null
-  },
-  {
-    "id": "mk02x64ywfhoa78qhm",
-    "text": "也不看看他长啥样",
-    "sender": "me",
-    "timestamp": 1767552163666,
-    "quote": {
-      "id": "mk02ugcolo2wxqzw1nc",
-      "text": "意味着可能性"
     }
   },
   {
-    "id": "mk02xdkl9irsj419ir6",
-    "text": "长得还没你好看",
+    "id": "mk5oi5o6trpqj618n3h",
+    "turnId": "turn_mk5oi4dumdp7jqco8bd",
+    "text": "这叫严谨",
+    "sender": "them",
+    "timestamp": 1767890745656,
+    "voiceData": {
+      "status": "坐在沙发上，手指无意识地敲着手机背面",
+      "inner": "夸我一句有那么难吗？非要拐弯抹角的。",
+      "favorability": "52%",
+      "trueFeeling": "",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5oi6as296pi01wuu",
+    "turnId": "turn_mk5oi4dumdp7jqco8bd",
+    "text": "不叫脸皮厚",
+    "sender": "them",
+    "timestamp": 1767890746471,
+    "voiceData": {
+      "status": "坐在沙发上，手指无意识地敲着手机背面",
+      "inner": "夸我一句有那么难吗？非要拐弯抹角的。",
+      "favorability": "52%",
+      "trueFeeling": "",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5oi6xn0iqwsce8dsz5",
+    "turnId": "turn_mk5oi4dumdp7jqco8bd",
+    "text": "别废话了",
+    "sender": "them",
+    "timestamp": 1767890747295,
+    "voiceData": {
+      "status": "坐在沙发上，手指无意识地敲着手机背面",
+      "inner": "夸我一句有那么难吗？非要拐弯抹角的。",
+      "favorability": "52%",
+      "trueFeeling": "",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5oi7kx2abk7prscny",
+    "turnId": "turn_mk5oi4dumdp7jqco8bd",
+    "text": "快点",
+    "sender": "them",
+    "timestamp": 1767890748134,
+    "voiceData": {
+      "status": "坐在沙发上，手指无意识地敲着手机背面",
+      "inner": "夸我一句有那么难吗？非要拐弯抹角的。",
+      "favorability": "52%",
+      "trueFeeling": "",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5ok9us91k95jktu8",
+    "text": "好吧",
     "sender": "me",
-    "timestamp": 1767552173301,
+    "timestamp": 1767890844388,
     "quote": null
   },
   {
-    "id": "mk02xjpgqr339pkxp3j",
-    "text": "达咩达咩",
+    "id": "mk5omcf2j8u2i8xb6c",
+    "text": "可靠",
     "sender": "me",
-    "timestamp": 1767552181252,
+    "timestamp": 1767890941022,
     "quote": null
   },
   {
-    "id": "mk02xvyz8k6if5evzip",
-    "turnId": "turn_mk02xvyzj430nezp27p",
+    "id": "mk5oml2o808g8rt94es",
+    "text": "冷静",
+    "sender": "me",
+    "timestamp": 1767890952240,
+    "quote": null
+  },
+  {
+    "id": "mk5on0j24mrc5d3mcid",
+    "text": "对我…还不错",
+    "sender": "me",
+    "timestamp": 1767890972270,
+    "quote": null
+  },
+  {
+    "id": "mk5onh7745xr3l6p9ll",
+    "turnId": "turn_mk5onh777n3bziiv5vf",
+    "text": "“还不错”？",
+    "sender": "them",
+    "timestamp": 1767890993875,
+    "voiceData": {
+      "status": "靠在沙发上，盯着手机屏幕",
+      "inner": "“还不错”？在你心里我就只是“还不错”的程度？太敷衍了。",
+      "favorability": "52%",
+      "trueFeeling": "多夸我一点",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5onhuh9lmy668ke2u",
+    "turnId": "turn_mk5onh777n3bziiv5vf",
+    "text": "这个形容过于宽泛",
+    "sender": "them",
+    "timestamp": 1767890994714,
+    "voiceData": {
+      "status": "靠在沙发上，盯着手机屏幕",
+      "inner": "“还不错”？在你心里我就只是“还不错”的程度？太敷衍了。",
+      "favorability": "52%",
+      "trueFeeling": "多夸我一点",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5oniht07t0y7gjim4c",
+    "turnId": "turn_mk5onh777n3bziiv5vf",
+    "text": "缺乏具体事例支撑",
+    "sender": "them",
+    "timestamp": 1767890995555,
+    "voiceData": {
+      "status": "靠在沙发上，盯着手机屏幕",
+      "inner": "“还不错”？在你心里我就只是“还不错”的程度？太敷衍了。",
+      "favorability": "52%",
+      "trueFeeling": "多夸我一点",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5onj55j1c0wrb8ao",
+    "turnId": "turn_mk5onh777n3bziiv5vf",
+    "text": "评价无效，重来",
+    "sender": "them",
+    "timestamp": 1767890996396,
+    "voiceData": {
+      "status": "靠在沙发上，盯着手机屏幕",
+      "inner": "“还不错”？在你心里我就只是“还不错”的程度？太敷衍了。",
+      "favorability": "52%",
+      "trueFeeling": "多夸我一点",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5oo7jpa41444p4gc8",
+    "text": "你怎么这么自恋呢",
+    "sender": "me",
+    "timestamp": 1767891028021,
+    "quote": null
+  },
+  {
+    "id": "mk5oofkemtrpbdat0cj",
+    "text": "这么喜欢听人夸你？",
+    "sender": "me",
+    "timestamp": 1767891038414,
+    "quote": null
+  },
+  {
+    "id": "mk5oomw5cmtd1zka19c",
+    "text": "那你先说我的优点",
+    "sender": "me",
+    "timestamp": 1767891047909,
+    "quote": null
+  },
+  {
+    "id": "mk5opf0lfopsfcc9u5j",
+    "turnId": "turn_mk5opf0lusjpbepdrdi",
+    "text": "你的优点？",
+    "sender": "them",
+    "timestamp": 1767891084357,
+    "voiceData": {
+      "status": "靠在椅背上，单手打字",
+      "inner": "优点当然不止这些，但说出来就没意思了",
+      "favorability": "52%",
+      "trueFeeling": "",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5opfnrxt0s1c210up",
+    "turnId": "turn_mk5opf0lusjpbepdrdi",
+    "text": "让我想想",
+    "sender": "them",
+    "timestamp": 1767891085192,
+    "voiceData": {
+      "status": "靠在椅背上，单手打字",
+      "inner": "优点当然不止这些，但说出来就没意思了",
+      "favorability": "52%",
+      "trueFeeling": "",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5opgb2795irc1g7fu",
+    "turnId": "turn_mk5opf0lusjpbepdrdi",
+    "text": "能吃",
+    "sender": "them",
+    "timestamp": 1767891086032,
+    "voiceData": {
+      "status": "靠在椅背上，单手打字",
+      "inner": "优点当然不止这些，但说出来就没意思了",
+      "favorability": "52%",
+      "trueFeeling": "",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5opgyetyl5qyk5fk",
+    "turnId": "turn_mk5opf0lusjpbepdrdi",
+    "text": "能睡",
+    "sender": "them",
+    "timestamp": 1767891086873,
+    "voiceData": {
+      "status": "靠在椅背上，单手打字",
+      "inner": "优点当然不止这些，但说出来就没意思了",
+      "favorability": "52%",
+      "trueFeeling": "",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5ophle98lq2j2uqmc",
+    "turnId": "turn_mk5opf0lusjpbepdrdi",
+    "text": "记性差，所以不记仇",
+    "sender": "them",
+    "timestamp": 1767891087702,
+    "voiceData": {
+      "status": "靠在椅背上，单手打字",
+      "inner": "优点当然不止这些，但说出来就没意思了",
+      "favorability": "52%",
+      "trueFeeling": "",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5opi7xwwjmqcp8uo",
+    "turnId": "turn_mk5opf0lusjpbepdrdi",
+    "text": "勉强算优点吧",
+    "sender": "them",
+    "timestamp": 1767891088514,
+    "voiceData": {
+      "status": "靠在椅背上，单手打字",
+      "inner": "优点当然不止这些，但说出来就没意思了",
+      "favorability": "52%",
+      "trueFeeling": "",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5opiv9dfss8asa4xf",
+    "turnId": "turn_mk5opf0lusjpbepdrdi",
+    "text": "行了，到你了",
+    "sender": "them",
+    "timestamp": 1767891089356,
+    "voiceData": {
+      "status": "靠在椅背上，单手打字",
+      "inner": "优点当然不止这些，但说出来就没意思了",
+      "favorability": "52%",
+      "trueFeeling": "",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5oq3roqth5xa4ds8g",
+    "text": "你这是优点还是缺点…",
+    "sender": "me",
+    "timestamp": 1767891116436,
+    "quote": null
+  },
+  {
+    "id": "mk5oq7l6wceyt5prkck",
+    "text": "不行",
+    "sender": "me",
+    "timestamp": 1767891121386,
+    "quote": null
+  },
+  {
+    "id": "mk5oqeget29bjowverm",
+    "text": "能不能真诚一点",
+    "sender": "me",
+    "timestamp": 1767891130286,
+    "quote": null
+  },
+  {
+    "id": "mk5oqtdkmkglvcnh5aq",
+    "turnId": "turn_mk5oqtdko9imjb28ath",
+    "text": "真诚？",
+    "sender": "them",
+    "timestamp": 1767891149624,
+    "voiceData": {
+      "status": "视线移开，落在旁边的文件上",
+      "inner": "说这种话真不习惯…感觉有点肉麻。但是是实话。",
+      "favorability": "53%",
+      "trueFeeling": "",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5oqu0q9de8v5d8ge6",
+    "turnId": "turn_mk5oqtdko9imjb28ath",
     "text": "……",
     "sender": "them",
-    "timestamp": 1767552197147,
+    "timestamp": 1767891150459,
     "voiceData": {
-      "status": "坐在书桌前，手指无意识地敲击着桌面，嘴角不易察觉地微微上扬了一瞬又立刻压了下去",
-      "inner": "算她还有点眼光",
+      "status": "视线移开，落在旁边的文件上",
+      "inner": "说这种话真不习惯…感觉有点肉麻。但是是实话。",
       "favorability": "53%",
       "trueFeeling": "",
       "tokens": null
     }
   },
   {
-    "id": "mk02xwlkx0pw2ecu7q",
-    "turnId": "turn_mk02xvyzj430nezp27p",
-    "text": "所以",
+    "id": "mk5oqunws8yvke40xsm",
+    "turnId": "turn_mk5oqtdko9imjb28ath",
+    "text": "跟你待在一起的时候",
     "sender": "them",
-    "timestamp": 1767552197961,
+    "timestamp": 1767891151294,
     "voiceData": {
-      "status": "坐在书桌前，手指无意识地敲击着桌面，嘴角不易察觉地微微上扬了一瞬又立刻压了下去",
-      "inner": "算她还有点眼光",
+      "status": "视线移开，落在旁边的文件上",
+      "inner": "说这种话真不习惯…感觉有点肉麻。但是是实话。",
       "favorability": "53%",
       "trueFeeling": "",
       "tokens": null
     }
   },
   {
-    "id": "mk02xx87c3j4njrb38i",
-    "turnId": "turn_mk02xvyzj430nezp27p",
-    "text": "这是你拒绝他的唯一理由？",
+    "id": "mk5oqvag2dmoyb1d7qj",
+    "turnId": "turn_mk5oqtdko9imjb28ath",
+    "text": "还算放松",
     "sender": "them",
-    "timestamp": 1767552198777,
+    "timestamp": 1767891152107,
     "voiceData": {
-      "status": "坐在书桌前，手指无意识地敲击着桌面，嘴角不易察觉地微微上扬了一瞬又立刻压了下去",
-      "inner": "算她还有点眼光",
+      "status": "视线移开，落在旁边的文件上",
+      "inner": "说这种话真不习惯…感觉有点肉麻。但是是实话。",
       "favorability": "53%",
       "trueFeeling": "",
       "tokens": null
     }
   },
   {
-    "id": "mk02xxuttgr8xdx6xkn",
-    "turnId": "turn_mk02xvyzj430nezp27p",
-    "text": "你的择偶标准什么时候变得这么肤浅了",
+    "id": "mk5oqvxpr9ik7p23jmm",
+    "turnId": "turn_mk5oqtdko9imjb28ath",
+    "text": "行了吧",
     "sender": "them",
-    "timestamp": 1767552199592,
+    "timestamp": 1767891152945,
     "voiceData": {
-      "status": "坐在书桌前，手指无意识地敲击着桌面，嘴角不易察觉地微微上扬了一瞬又立刻压了下去",
-      "inner": "算她还有点眼光",
+      "status": "视线移开，落在旁边的文件上",
+      "inner": "说这种话真不习惯…感觉有点肉麻。但是是实话。",
       "favorability": "53%",
       "trueFeeling": "",
       "tokens": null
     }
   },
   {
-    "id": "mk0306iqlj0q6bd7ccn",
-    "text": "不只是吧",
+    "id": "mk5oqwl1rkq9soa0sw",
+    "turnId": "turn_mk5oqtdko9imjb28ath",
+    "text": "轮到你了",
+    "sender": "them",
+    "timestamp": 1767891153787,
+    "voiceData": {
+      "status": "视线移开，落在旁边的文件上",
+      "inner": "说这种话真不习惯…感觉有点肉麻。但是是实话。",
+      "favorability": "53%",
+      "trueFeeling": "",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5orxz3v2xdmibm2r",
+    "text": "我不说了！",
     "sender": "me",
-    "timestamp": 1767552304130,
+    "timestamp": 1767891202239,
+    "quote": null
+  },
+  {
+    "id": "mk5os5t3la5vtfsway",
+    "text": "我夸了你两个人品上的优点",
+    "sender": "me",
+    "timestamp": 1767891212391,
+    "quote": null
+  },
+  {
+    "id": "mk5osg6pbpyorriiqg",
+    "text": "但是你一个正经的都没有说出来！",
+    "sender": "me",
+    "timestamp": 1767891225841,
+    "quote": null
+  },
+  {
+    "id": "mk5ot1m08346ae8h9ye",
+    "turnId": "turn_mk5ot1m06dye7a3vf0b",
+    "text": "啧",
+    "sender": "them",
+    "timestamp": 1767891253608,
+    "voiceData": {
+      "status": "靠在椅背上，有点头疼地捏了捏鼻梁",
+      "inner": "真是麻烦…非要我说得这么直白吗。不过她好像真的生气了。",
+      "favorability": "52%",
+      "trueFeeling": "其实优点很多。",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5ot295w44z2dtso2b",
+    "turnId": "turn_mk5ot1m06dye7a3vf0b",
+    "text": "好吧",
+    "sender": "them",
+    "timestamp": 1767891254442,
+    "voiceData": {
+      "status": "靠在椅背上，有点头疼地捏了捏鼻梁",
+      "inner": "真是麻烦…非要我说得这么直白吗。不过她好像真的生气了。",
+      "favorability": "52%",
+      "trueFeeling": "其实优点很多。",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5ot2w9ybet0kj55pd",
+    "turnId": "turn_mk5ot1m06dye7a3vf0b",
+    "text": "你最大的优点",
+    "sender": "them",
+    "timestamp": 1767891255275,
+    "voiceData": {
+      "status": "靠在椅背上，有点头疼地捏了捏鼻梁",
+      "inner": "真是麻烦…非要我说得这么直白吗。不过她好像真的生气了。",
+      "favorability": "52%",
+      "trueFeeling": "其实优点很多。",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5ot3jkgwrrkrvvg69",
+    "turnId": "turn_mk5ot1m06dye7a3vf0b",
+    "text": "是能忍受我这种人",
+    "sender": "them",
+    "timestamp": 1767891256115,
+    "voiceData": {
+      "status": "靠在椅背上，有点头疼地捏了捏鼻梁",
+      "inner": "真是麻烦…非要我说得这么直白吗。不过她好像真的生气了。",
+      "favorability": "52%",
+      "trueFeeling": "其实优点很多。",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5ot471flsvuwcu7o6",
+    "turnId": "turn_mk5ot1m06dye7a3vf0b",
+    "text": "这很罕见",
+    "sender": "them",
+    "timestamp": 1767891256961,
+    "voiceData": {
+      "status": "靠在椅背上，有点头疼地捏了捏鼻梁",
+      "inner": "真是麻烦…非要我说得这么直白吗。不过她好像真的生气了。",
+      "favorability": "52%",
+      "trueFeeling": "其实优点很多。",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5ot4uck8eph7csjg",
+    "turnId": "turn_mk5ot1m06dye7a3vf0b",
+    "text": "很有价值",
+    "sender": "them",
+    "timestamp": 1767891257801,
+    "voiceData": {
+      "status": "靠在椅背上，有点头疼地捏了捏鼻梁",
+      "inner": "真是麻烦…非要我说得这么直白吗。不过她好像真的生气了。",
+      "favorability": "52%",
+      "trueFeeling": "其实优点很多。",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5ot5gvuhw9a2av5m",
+    "turnId": "turn_mk5ot1m06dye7a3vf0b",
+    "text": "满意了？",
+    "sender": "them",
+    "timestamp": 1767891258614,
+    "voiceData": {
+      "status": "靠在椅背上，有点头疼地捏了捏鼻梁",
+      "inner": "真是麻烦…非要我说得这么直白吗。不过她好像真的生气了。",
+      "favorability": "52%",
+      "trueFeeling": "其实优点很多。",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5ot64cxkuhjjiqny",
+    "turnId": "turn_mk5ot1m06dye7a3vf0b",
+    "text": "现在可以说了吧",
+    "sender": "them",
+    "timestamp": 1767891259459,
+    "voiceData": {
+      "status": "靠在椅背上，有点头疼地捏了捏鼻梁",
+      "inner": "真是麻烦…非要我说得这么直白吗。不过她好像真的生气了。",
+      "favorability": "52%",
+      "trueFeeling": "其实优点很多。",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5otr3zbagx1abxcos",
+    "text": "天呐你竟然有自知之明",
+    "sender": "me",
+    "timestamp": 1767891286655,
     "quote": {
-      "id": "mk02xx87c3j4njrb38i",
-      "text": "这是你拒绝他的唯一理由？"
+      "id": "mk5ot3jkgwrrkrvvg69",
+      "text": "是能忍受我这种人"
     }
   },
   {
-    "id": "mk030gkdqcx3qehs5wc",
-    "text": "我现在也不想谈恋爱",
+    "id": "mk5ov364p0b0nfgsmug",
+    "text": "好吧",
     "sender": "me",
-    "timestamp": 1767552317149,
+    "timestamp": 1767891348940,
     "quote": null
   },
   {
-    "id": "mk030lzanv4nm0jxwjp",
-    "text": "男人，呵",
+    "id": "mk5ov72bvhl24b3t70r",
+    "text": "长得帅",
     "sender": "me",
-    "timestamp": 1767552324166,
+    "timestamp": 1767891353987,
     "quote": null
   },
   {
-    "id": "mk031f78avl7ckfw0ib",
-    "turnId": "turn_mk031f78kxh8q9ly92k",
-    "text": "哦？",
+    "id": "mk5ov9f6xx7a523uk5",
+    "text": "身材好",
+    "sender": "me",
+    "timestamp": 1767891357042,
+    "quote": null
+  },
+  {
+    "id": "mk5ovdcu6ksrntd94ka",
+    "text": "有钱",
+    "sender": "me",
+    "timestamp": 1767891362142,
+    "quote": null
+  },
+  {
+    "id": "mk5ovfjdm8ibfbjsue",
+    "text": "能力强",
+    "sender": "me",
+    "timestamp": 1767891364969,
+    "quote": null
+  },
+  {
+    "id": "mk5ovj8k1bjr55hx8s4",
+    "text": "还不装逼",
+    "sender": "me",
+    "timestamp": 1767891369764,
+    "quote": null
+  },
+  {
+    "id": "mk5ovuet32jlbjdsq8h",
+    "text": "说实话是放在婚恋市场上非常抢手的那种类型",
+    "sender": "me",
+    "timestamp": 1767891384245,
+    "quote": null
+  },
+  {
+    "id": "mk5oxt1nmpzhuo2vh2",
+    "turnId": "turn_mk5oxt1ngm6q0zronli",
+    "text": "...",
     "sender": "them",
-    "timestamp": 1767552362036,
+    "timestamp": 1767891475787,
     "voiceData": {
-      "status": "眉毛挑了一下，嘴角似乎有一丝不易察觉的上扬，但很快又压了下去",
-      "inner": "“男人，呵？”这地图炮开的，那我算什么？",
-      "favorability": "53%",
-      "trueFeeling": "",
+      "status": "靠在椅背上，指尖轻轻敲着手机屏幕",
+      "inner": "总算说了点我爱听的...就是不知道她听懂我的话没有",
+      "favorability": "58%",
+      "trueFeeling": "有点高兴",
       "tokens": null
     }
   },
   {
-    "id": "mk031ftlgnlj8hv3efi",
-    "turnId": "turn_mk031f78kxh8q9ly92k",
-    "text": "这句话的涵盖范围",
+    "id": "mk5oxtogxqd876g2pp",
+    "turnId": "turn_mk5oxt1ngm6q0zronli",
+    "text": "分析得还挺像回事",
     "sender": "them",
-    "timestamp": 1767552362842,
+    "timestamp": 1767891476609,
     "voiceData": {
-      "status": "眉毛挑了一下，嘴角似乎有一丝不易察觉的上扬，但很快又压了下去",
-      "inner": "“男人，呵？”这地图炮开的，那我算什么？",
-      "favorability": "53%",
-      "trueFeeling": "",
-      "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk031ggce3k71yyos9s",
-    "turnId": "turn_mk031f78kxh8q9ly92k",
-    "text": "包括我吗？",
-    "sender": "them",
-    "timestamp": 1767552363662,
-    "voiceData": {
-      "status": "眉毛挑了一下，嘴角似乎有一丝不易察觉的上扬，但很快又压了下去",
-      "inner": "“男人，呵？”这地图炮开的，那我算什么？",
-      "favorability": "53%",
-      "trueFeeling": "",
-      "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk031vp7zdb966mbod",
-    "text": "不包括吧",
-    "sender": "me",
-    "timestamp": 1767552383419,
-    "quote": null,
-    "summarized": true
-  },
-  {
-    "id": "mk032245uzy6iwc685m",
-    "text": "你偶尔还是挺好的",
-    "sender": "me",
-    "timestamp": 1767552391733,
-    "quote": null,
-    "summarized": true
-  },
-  {
-    "id": "mk03264nfm7v1rjd0to",
-    "text": "比如付钱的时候",
-    "sender": "me",
-    "timestamp": 1767552396935,
-    "quote": null,
-    "summarized": true
-  },
-  {
-    "id": "mk033vfo2nndm3ud177",
-    "turnId": "turn_mk033vfnnypvqgrxczl",
-    "text": "所以",
-    "sender": "them",
-    "timestamp": 1767552476388,
-    "voiceData": {
-      "status": "指尖在桌上无意识地敲了敲，发出轻微的嗒嗒声",
-      "inner": "原来我在你心里就是个会走路的钱包，行",
-      "favorability": "53%",
-      "trueFeeling": "",
-      "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk033w21s5mkz6ia6bn",
-    "turnId": "turn_mk033vfnnypvqgrxczl",
-    "text": "我在你心里的价值",
-    "sender": "them",
-    "timestamp": 1767552477194,
-    "voiceData": {
-      "status": "指尖在桌上无意识地敲了敲，发出轻微的嗒嗒声",
-      "inner": "原来我在你心里就是个会走路的钱包，行",
-      "favorability": "53%",
-      "trueFeeling": "",
-      "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk033wosoz9eo6g5jp",
-    "turnId": "turn_mk033vfnnypvqgrxczl",
-    "text": "就等同于一个移动支付终端？",
-    "sender": "them",
-    "timestamp": 1767552478014,
-    "voiceData": {
-      "status": "指尖在桌上无意识地敲了敲，发出轻微的嗒嗒声",
-      "inner": "原来我在你心里就是个会走路的钱包，行",
-      "favorability": "53%",
-      "trueFeeling": "",
-      "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk033xbh913eu5jw5td",
-    "turnId": "turn_mk033vfnnypvqgrxczl",
-    "text": "挺好",
-    "sender": "them",
-    "timestamp": 1767552478832,
-    "voiceData": {
-      "status": "指尖在桌上无意识地敲了敲，发出轻微的嗒嗒声",
-      "inner": "原来我在你心里就是个会走路的钱包，行",
-      "favorability": "53%",
-      "trueFeeling": "",
-      "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk033xy8kxgxc2ex37",
-    "turnId": "turn_mk033vfnnypvqgrxczl",
-    "text": "至少还有使用价值",
-    "sender": "them",
-    "timestamp": 1767552479652,
-    "voiceData": {
-      "status": "指尖在桌上无意识地敲了敲，发出轻微的嗒嗒声",
-      "inner": "原来我在你心里就是个会走路的钱包，行",
-      "favorability": "53%",
-      "trueFeeling": "",
-      "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk034e360lkot4xb5cc",
-    "text": "干嘛！",
-    "sender": "me",
-    "timestamp": 1767552500562,
-    "quote": null,
-    "summarized": true
-  },
-  {
-    "id": "mk034jj6mzarg7uf04d",
-    "text": "你很不满吗",
-    "sender": "me",
-    "timestamp": 1767552507618,
-    "quote": null,
-    "summarized": true
-  },
-  {
-    "id": "mk034whv1qc1dgiijcz",
-    "text": "也不只是啦",
-    "sender": "me",
-    "timestamp": 1767552524419,
-    "quote": null,
-    "summarized": true
-  },
-  {
-    "id": "mk0350twlfil23tzw9i",
-    "text": "都二十多年了",
-    "sender": "me",
-    "timestamp": 1767552530036,
-    "quote": null,
-    "summarized": true
-  },
-  {
-    "id": "mk035bjobuynq9kx009",
-    "text": "你还纠结这个？",
-    "sender": "me",
-    "timestamp": 1767552543924,
-    "quote": null,
-    "summarized": true
-  },
-  {
-    "id": "mk036kx2vpfzen9qmxb",
-    "turnId": "turn_mk036kx2ww4c19o0pc",
-    "text": "对",
-    "sender": "them",
-    "timestamp": 1767552602726,
-    "voiceData": {
-      "status": "烦躁地松了松领带，在办公室里踱步",
-      "inner": "这家伙完全没意识到问题的严重性。二十多年不是理所当然，是我的全部沉没成本。",
-      "favorability": "53%",
-      "trueFeeling": "",
-      "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk036ljfuoxboty61a",
-    "turnId": "turn_mk036kx2ww4c19o0pc",
-    "text": "我很不满",
-    "sender": "them",
-    "timestamp": 1767552603532,
-    "voiceData": {
-      "status": "烦躁地松了松领带，在办公室里踱步",
-      "inner": "这家伙完全没意识到问题的严重性。二十多年不是理所当然，是我的全部沉没成本。",
-      "favorability": "53%",
-      "trueFeeling": "",
-      "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk036m6657z1rkn9ivf",
-    "turnId": "turn_mk036kx2ww4c19o0pc",
-    "text": "二十多年",
-    "sender": "them",
-    "timestamp": 1767552604352,
-    "voiceData": {
-      "status": "烦躁地松了松领带，在办公室里踱步",
-      "inner": "这家伙完全没意识到问题的严重性。二十多年不是理所当然，是我的全部沉没成本。",
-      "favorability": "53%",
-      "trueFeeling": "",
-      "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk036msvayri4b3odd6",
-    "turnId": "turn_mk036kx2ww4c19o0pc",
-    "text": "难道不是应该让我拥有更高的优先级和更特殊的价值吗",
-    "sender": "them",
-    "timestamp": 1767552605170,
-    "voiceData": {
-      "status": "烦躁地松了松领带，在办公室里踱步",
-      "inner": "这家伙完全没意识到问题的严重性。二十多年不是理所当然，是我的全部沉没成本。",
-      "favorability": "53%",
-      "trueFeeling": "",
-      "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk036nfm5za8su5euhw",
-    "turnId": "turn_mk036kx2ww4c19o0pc",
-    "text": "怎么到你这",
-    "sender": "them",
-    "timestamp": 1767552605990,
-    "voiceData": {
-      "status": "烦躁地松了松领带，在办公室里踱步",
-      "inner": "这家伙完全没意识到问题的严重性。二十多年不是理所当然，是我的全部沉没成本。",
-      "favorability": "53%",
-      "trueFeeling": "",
-      "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk036o28bpzj33pbbyt",
-    "turnId": "turn_mk036kx2ww4c19o0pc",
-    "text": "就成了“不用纠结”的背景板了？",
-    "sender": "them",
-    "timestamp": 1767552606805,
-    "voiceData": {
-      "status": "烦躁地松了松领带，在办公室里踱步",
-      "inner": "这家伙完全没意识到问题的严重性。二十多年不是理所当然，是我的全部沉没成本。",
-      "favorability": "53%",
-      "trueFeeling": "",
-      "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk036oozptrknpa7nr",
-    "turnId": "turn_mk036kx2ww4c19o0pc",
-    "text": "我需要一个合理的解释",
-    "sender": "them",
-    "timestamp": 1767552607625,
-    "voiceData": {
-      "status": "烦躁地松了松领带，在办公室里踱步",
-      "inner": "这家伙完全没意识到问题的严重性。二十多年不是理所当然，是我的全部沉没成本。",
-      "favorability": "53%",
-      "trueFeeling": "",
-      "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk0380vunyp5tkx3fn",
-    "text": "你这人真难哄",
-    "sender": "me",
-    "timestamp": 1767552670074,
-    "quote": null,
-    "summarized": true
-  },
-  {
-    "id": "mk0387mi1mpo73xnr6t",
-    "text": "你是特殊的存在！",
-    "sender": "me",
-    "timestamp": 1767552678810,
-    "quote": null,
-    "summarized": true
-  },
-  {
-    "id": "mk038bwpgkflyevpi3k",
-    "text": "行了吧！",
-    "sender": "me",
-    "timestamp": 1767552684361,
-    "quote": null,
-    "summarized": true
-  },
-  {
-    "id": "mk0398uga1y88lafb4d",
-    "type": "image",
-    "isSticker": true,
-    "url": "https://i.postimg.cc/BbZQcjtj/temp-Image72-Cphk.avif",
-    "text": "[表情: 低眉顺眼]",
-    "sender": "me",
-    "timestamp": 1767552727048
-  },
-  {
-    "id": "mk039mamnt6i3m4st8d",
-    "turnId": "turn_mk039mamqfzzm1l50ui",
-    "text": "敷衍",
-    "sender": "them",
-    "timestamp": 1767552744478,
-    "voiceData": {
-      "status": "靠在椅背上，双臂环胸，微微扬起下巴，摆出了一副审讯的架势",
-      "inner": "这点程度就想蒙混过关？做梦。",
-      "favorability": "60%",
-      "trueFeeling": "",
-      "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk039mx8mbqrxbz482s",
-    "turnId": "turn_mk039mamqfzzm1l50ui",
-    "text": "毫无诚意",
-    "sender": "them",
-    "timestamp": 1767552745293,
-    "voiceData": {
-      "status": "靠在椅背上，双臂环胸，微微扬起下巴，摆出了一副审讯的架势",
-      "inner": "这点程度就想蒙混过关？做梦。",
-      "favorability": "60%",
-      "trueFeeling": "",
-      "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk039njujp45a6494z",
-    "turnId": "turn_mk039mamqfzzm1l50ui",
-    "text": "这语气",
-    "sender": "them",
-    "timestamp": 1767552746108,
-    "voiceData": {
-      "status": "靠在椅背上，双臂环胸，微微扬起下巴，摆出了一副审讯的架势",
-      "inner": "这点程度就想蒙混过关？做梦。",
-      "favorability": "60%",
-      "trueFeeling": "",
-      "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk039o6eutckp0rpyc",
-    "turnId": "turn_mk039mamqfzzm1l50ui",
-    "text": "像是在打发路边要饭的",
-    "sender": "them",
-    "timestamp": 1767552746921,
-    "voiceData": {
-      "status": "靠在椅背上，双臂环胸，微微扬起下巴，摆出了一副审讯的架势",
-      "inner": "这点程度就想蒙混过关？做梦。",
-      "favorability": "60%",
-      "trueFeeling": "",
-      "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk039ot1248gmnnfocn",
-    "turnId": "turn_mk039mamqfzzm1l50ui",
-    "text": "“特殊的存在”",
-    "sender": "them",
-    "timestamp": 1767552747737,
-    "voiceData": {
-      "status": "靠在椅背上，双臂环胸，微微扬起下巴，摆出了一副审讯的架势",
-      "inner": "这点程度就想蒙混过关？做梦。",
-      "favorability": "60%",
-      "trueFeeling": "",
-      "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk039pfolmtuukmgtef",
-    "turnId": "turn_mk039mamqfzzm1l50ui",
-    "text": "这个定义很模糊",
-    "sender": "them",
-    "timestamp": 1767552748553,
-    "voiceData": {
-      "status": "靠在椅背上，双臂环胸，微微扬起下巴，摆出了一副审讯的架势",
-      "inner": "这点程度就想蒙混过关？做梦。",
-      "favorability": "60%",
-      "trueFeeling": "",
-      "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk039q2bimu1haebxbc",
-    "turnId": "turn_mk039mamqfzzm1l50ui",
-    "text": "你需要具体阐述",
-    "sender": "them",
-    "timestamp": 1767552749369,
-    "voiceData": {
-      "status": "靠在椅背上，双臂环胸，微微扬起下巴，摆出了一副审讯的架势",
-      "inner": "这点程度就想蒙混过关？做梦。",
-      "favorability": "60%",
-      "trueFeeling": "",
-      "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk039qotupc5kgd7il",
-    "turnId": "turn_mk039mamqfzzm1l50ui",
-    "text": "特殊在哪里？",
-    "sender": "them",
-    "timestamp": 1767552750180,
-    "voiceData": {
-      "status": "靠在椅背上，双臂环胸，微微扬起下巴，摆出了一副审讯的架势",
-      "inner": "这点程度就想蒙混过关？做梦。",
-      "favorability": "60%",
-      "trueFeeling": "",
-      "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk03b66b1nleej71ih",
-    "type": "image",
-    "isSticker": true,
-    "url": "https://i.postimg.cc/yNFVMmZJ/temp-Image-ZZ12-Vr.avif",
-    "text": "[表情: 不聊了狗屁]",
-    "sender": "me",
-    "timestamp": 1767552816899
-  },
-  {
-    "id": "mk03bgoltwqfxbcszb",
-    "text": "我不聊了！",
-    "sender": "me",
-    "timestamp": 1767552830517,
-    "quote": null,
-    "summarized": true
-  },
-  {
-    "id": "mk03bmjr8mfi2lb36hv",
-    "text": "你好烦",
-    "sender": "me",
-    "timestamp": 1767552838119,
-    "quote": null,
-    "summarized": true
-  },
-  {
-    "id": "mk03bscoret789u5w1",
-    "text": "你现在在公司吗",
-    "sender": "me",
-    "timestamp": 1767552845640,
-    "quote": null,
-    "summarized": true
-  },
-  {
-    "id": "mk03c5f449itn4haidq",
-    "turnId": "turn_mk03c5f4zg6ae7ucj5m",
-    "text": "转移话题？",
-    "sender": "them",
-    "timestamp": 1767552862576,
-    "voiceData": {
-      "status": "身体向后靠在办公椅上，单手拿着手机，另一只手无意识地转着笔",
-      "inner": "别想就这么糊弄过去",
+      "status": "靠在椅背上，指尖轻轻敲着手机屏幕",
+      "inner": "总算说了点我爱听的...就是不知道她听懂我的话没有",
       "favorability": "58%",
-      "trueFeeling": "",
+      "trueFeeling": "有点高兴",
       "tokens": null
-    },
-    "summarized": true
+    }
   },
   {
-    "id": "mk03c61q04oj1boyrqdt",
-    "turnId": "turn_mk03c5f4zg6ae7ucj5m",
-    "text": "心虚了？",
+    "id": "mk5oxubrqh8x3vp3tn",
+    "turnId": "turn_mk5oxt1ngm6q0zronli",
+    "text": "婚恋市场",
     "sender": "them",
-    "timestamp": 1767552863391,
+    "timestamp": 1767891477449,
     "voiceData": {
-      "status": "身体向后靠在办公椅上，单手拿着手机，另一只手无意识地转着笔",
-      "inner": "别想就这么糊弄过去",
+      "status": "靠在椅背上，指尖轻轻敲着手机屏幕",
+      "inner": "总算说了点我爱听的...就是不知道她听懂我的话没有",
       "favorability": "58%",
-      "trueFeeling": "",
+      "trueFeeling": "有点高兴",
       "tokens": null
-    },
-    "summarized": true
+    }
   },
   {
-    "id": "mk03c6oe21nq3k1jwkt",
-    "turnId": "turn_mk03c5f4zg6ae7ucj5m",
-    "text": "在",
+    "id": "mk5oxuz35limne1w6tw",
+    "turnId": "turn_mk5oxt1ngm6q0zronli",
+    "text": "不过",
     "sender": "them",
-    "timestamp": 1767552864208,
+    "timestamp": 1767891478290,
     "voiceData": {
-      "status": "身体向后靠在办公椅上，单手拿着手机，另一只手无意识地转着笔",
-      "inner": "别想就这么糊弄过去",
+      "status": "靠在椅背上，指尖轻轻敲着手机屏幕",
+      "inner": "总算说了点我爱听的...就是不知道她听懂我的话没有",
       "favorability": "58%",
-      "trueFeeling": "",
+      "trueFeeling": "有点高兴",
       "tokens": null
-    },
-    "summarized": true
+    }
   },
   {
-    "id": "mk03c7b1y7rt4s6ru7d",
-    "turnId": "turn_mk03c5f4zg6ae7ucj5m",
-    "text": "不然呢",
+    "id": "mk5oxvlp0nn9r2g7w2pa",
+    "turnId": "turn_mk5oxt1ngm6q0zronli",
+    "text": "这个东西对我来说没什么意义",
     "sender": "them",
-    "timestamp": 1767552865024,
+    "timestamp": 1767891479105,
     "voiceData": {
-      "status": "身体向后靠在办公椅上，单手拿着手机，另一只手无意识地转着笔",
-      "inner": "别想就这么糊弄过去",
+      "status": "靠在椅背上，指尖轻轻敲着手机屏幕",
+      "inner": "总算说了点我爱听的...就是不知道她听懂我的话没有",
       "favorability": "58%",
-      "trueFeeling": "",
+      "trueFeeling": "有点高兴",
       "tokens": null
-    },
-    "summarized": true
+    }
   },
   {
-    "id": "mk03c7xppha8fklxel",
-    "turnId": "turn_mk03c5f4zg6ae7ucj5m",
-    "text": "你以为我热爱为资本主义发光发热？",
+    "id": "mk5oxw92f6oljslybm8",
+    "turnId": "turn_mk5oxt1ngm6q0zronli",
+    "text": "样本容量再大",
     "sender": "them",
-    "timestamp": 1767552865841,
+    "timestamp": 1767891479947,
     "voiceData": {
-      "status": "身体向后靠在办公椅上，单手拿着手机，另一只手无意识地转着笔",
-      "inner": "别想就这么糊弄过去",
+      "status": "靠在椅背上，指尖轻轻敲着手机屏幕",
+      "inner": "总算说了点我爱听的...就是不知道她听懂我的话没有",
       "favorability": "58%",
-      "trueFeeling": "",
+      "trueFeeling": "有点高兴",
       "tokens": null
-    },
-    "summarized": true
+    }
   },
   {
-    "id": "mk03c8kcr1bzzfp4d39",
-    "turnId": "turn_mk03c5f4zg6ae7ucj5m",
-    "text": "问这个干什么",
+    "id": "mk5oxwvnlbhpvjly6pc",
+    "turnId": "turn_mk5oxt1ngm6q0zronli",
+    "text": "目标客户也只有一个",
     "sender": "them",
-    "timestamp": 1767552866657,
+    "timestamp": 1767891480761,
     "voiceData": {
-      "status": "身体向后靠在办公椅上，单手拿着手机，另一只手无意识地转着笔",
-      "inner": "别想就这么糊弄过去",
+      "status": "靠在椅背上，指尖轻轻敲着手机屏幕",
+      "inner": "总算说了点我爱听的...就是不知道她听懂我的话没有",
       "favorability": "58%",
-      "trueFeeling": "",
+      "trueFeeling": "有点高兴",
       "tokens": null
-    },
-    "summarized": true
+    }
   },
   {
-    "id": "mk03c96xz9v87obeo2p",
-    "turnId": "turn_mk03c5f4zg6ae7ucj5m",
-    "text": "还没回答我的问题",
-    "sender": "them",
-    "timestamp": 1767552867471,
-    "voiceData": {
-      "status": "身体向后靠在办公椅上，单手拿着手机，另一只手无意识地转着笔",
-      "inner": "别想就这么糊弄过去",
-      "favorability": "58%",
-      "trueFeeling": "",
-      "tokens": null
-    },
-    "summarized": true
-  },
-  {
-    "id": "mk03d0ts5x5an9x7uz",
-    "text": "你几点可以下班",
+    "id": "mk5ozqvqfmll4osgxe5",
+    "text": "谁？",
     "sender": "me",
-    "timestamp": 1767552903280,
-    "quote": null,
-    "summarized": true
+    "timestamp": 1767891566294,
+    "quote": null
   },
   {
-    "id": "mk03dbsqbguo4j742ua",
-    "turnId": "turn_mk03dbsq4mcwiaaishl",
-    "text": "你又在回避问题",
-    "sender": "them",
-    "timestamp": 1767552917498,
-    "voiceData": null,
-    "summarized": true
+    "id": "mk5ozy0lefuc5tbohu",
+    "text": "你有喜欢的人了？",
+    "sender": "me",
+    "timestamp": 1767891575541,
+    "quote": null
   },
   {
-    "id": "mk03dbt8eh22z7y8vp",
-    "turnId": "turn_mk03dbsq4mcwiaaishl",
-    "text": "为什么问这个",
-    "sender": "them",
-    "timestamp": 1767552917517,
-    "voiceData": null,
-    "summarized": true
-  },
-  {
-    "id": "mk03dbt9t8duoeyfom",
-    "turnId": "turn_mk03dbsq4mcwiaaishl",
-    "text": "不知道",
-    "sender": "them",
-    "timestamp": 1767552917519,
-    "voiceData": null,
-    "summarized": true
-  },
-  {
-    "id": "mk03dbta48b482ev0h8",
-    "turnId": "turn_mk03dbsq4mcwiaaishl",
-    "text": "看今晚有没有哪个幸运儿需要我的法律援助",
-    "sender": "them",
-    "timestamp": 1767552917521,
-    "voiceData": null,
-    "summarized": true
-  },
-  {
-    "id": "mk03dbta603xstrtw4u",
-    "turnId": "turn_mk03dbsq4mcwiaaishl",
+    "id": "mk5p0h2hw30b6365628",
+    "turnId": "turn_mk5p0h2hnycgj65i3v",
     "text": "怎么",
     "sender": "them",
-    "timestamp": 1767552917523,
-    "voiceData": null,
-    "summarized": true
-  },
-  {
-    "id": "mk03dbtb92fzzzpzc3",
-    "turnId": "turn_mk03dbsq4mcwiaaishl",
-    "text": "想来律所给我送温暖？",
-    "sender": "them",
-    "timestamp": 1767552917524,
-    "voiceData": null,
-    "summarized": true
-  },
-  {
-    "id": "summary_mk03dr7mj0n1aw14dm",
-    "type": "summary",
-    "text": "纪言之因不满自身价值定位而追问不休，用户安抚失败后不耐烦地转移话题，询问其工作与下班时间。",
-    "timestamp": 1767552937474,
-    "summarizedMessageIds": [
-      "mk031ftlgnlj8hv3efi",
-      "mk031ggce3k71yyos9s",
-      "mk031vp7zdb966mbod",
-      "mk032245uzy6iwc685m",
-      "mk03264nfm7v1rjd0to",
-      "mk033vfo2nndm3ud177",
-      "mk033w21s5mkz6ia6bn",
-      "mk033wosoz9eo6g5jp",
-      "mk033xbh913eu5jw5td",
-      "mk033xy8kxgxc2ex37",
-      "mk034e360lkot4xb5cc",
-      "mk034jj6mzarg7uf04d",
-      "mk034whv1qc1dgiijcz",
-      "mk0350twlfil23tzw9i",
-      "mk035bjobuynq9kx009",
-      "mk036kx2vpfzen9qmxb",
-      "mk036ljfuoxboty61a",
-      "mk036m6657z1rkn9ivf",
-      "mk036msvayri4b3odd6",
-      "mk036nfm5za8su5euhw",
-      "mk036o28bpzj33pbbyt",
-      "mk036oozptrknpa7nr",
-      "mk0380vunyp5tkx3fn",
-      "mk0387mi1mpo73xnr6t",
-      "mk038bwpgkflyevpi3k",
-      "mk039mamnt6i3m4st8d",
-      "mk039mx8mbqrxbz482s",
-      "mk039njujp45a6494z",
-      "mk039o6eutckp0rpyc",
-      "mk039ot1248gmnnfocn",
-      "mk039pfolmtuukmgtef",
-      "mk039q2bimu1haebxbc",
-      "mk039qotupc5kgd7il",
-      "mk03bgoltwqfxbcszb",
-      "mk03bmjr8mfi2lb36hv",
-      "mk03bscoret789u5w1",
-      "mk03c5f449itn4haidq",
-      "mk03c61q04oj1boyrqdt",
-      "mk03c6oe21nq3k1jwkt",
-      "mk03c7b1y7rt4s6ru7d",
-      "mk03c7xppha8fklxel",
-      "mk03c8kcr1bzzfp4d39",
-      "mk03c96xz9v87obeo2p",
-      "mk03d0ts5x5an9x7uz",
-      "mk03dbsqbguo4j742ua",
-      "mk03dbt8eh22z7y8vp",
-      "mk03dbt9t8duoeyfom",
-      "mk03dbta48b482ev0h8",
-      "mk03dbta603xstrtw4u",
-      "mk03dbtb92fzzzpzc3"
-    ]
-  },
-  {
-    "id": "mk03fxrk2g5pu1or0al",
-    "text": "对啊",
-    "sender": "me",
-    "timestamp": 1767553039281,
-    "quote": {
-      "id": "mk03dbtb92fzzzpzc3",
-      "text": "想来律所给我送温暖？"
+    "timestamp": 1767891600233,
+    "voiceData": {
+      "status": "靠在椅背上，有些无奈地按了按眉心",
+      "inner": "都说到这份上了还不明白吗…真是个木头。",
+      "favorability": "60%",
+      "trueFeeling": "",
+      "tokens": null
     }
   },
   {
-    "id": "mk03g224a5lx4e6pf09",
-    "text": "想不想我来？",
+    "id": "mk5p0hpq1yptqnlb4fc",
+    "turnId": "turn_mk5p0h2hnycgj65i3v",
+    "text": "现在才反应过来？",
+    "sender": "them",
+    "timestamp": 1767891601071,
+    "voiceData": {
+      "status": "靠在椅背上，有些无奈地按了按眉心",
+      "inner": "都说到这份上了还不明白吗…真是个木头。",
+      "favorability": "60%",
+      "trueFeeling": "",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5p0id2ggturo9wnkf",
+    "turnId": "turn_mk5p0h2hnycgj65i3v",
+    "text": "这个项目",
+    "sender": "them",
+    "timestamp": 1767891601912,
+    "voiceData": {
+      "status": "靠在椅背上，有些无奈地按了按眉心",
+      "inner": "都说到这份上了还不明白吗…真是个木头。",
+      "favorability": "60%",
+      "trueFeeling": "",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5p0j0hi6ksmxh4arg",
+    "turnId": "turn_mk5p0h2hnycgj65i3v",
+    "text": "我已经跟进了二十多年了",
+    "sender": "them",
+    "timestamp": 1767891602756,
+    "voiceData": {
+      "status": "靠在椅背上，有些无奈地按了按眉心",
+      "inner": "都说到这份上了还不明白吗…真是个木头。",
+      "favorability": "60%",
+      "trueFeeling": "",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5p0jn2zhdkm9x9q98",
+    "turnId": "turn_mk5p0h2hnycgj65i3v",
+    "text": "你现在问我有没有目标？",
+    "sender": "them",
+    "timestamp": 1767891603570,
+    "voiceData": {
+      "status": "靠在椅背上，有些无奈地按了按眉心",
+      "inner": "都说到这份上了还不明白吗…真是个木头。",
+      "favorability": "60%",
+      "trueFeeling": "",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5p0kafgeqi0h6v3qn",
+    "turnId": "turn_mk5p0h2hnycgj65i3v",
+    "text": "……你的反射弧是不是有点长",
+    "sender": "them",
+    "timestamp": 1767891604413,
+    "voiceData": {
+      "status": "靠在椅背上，有些无奈地按了按眉心",
+      "inner": "都说到这份上了还不明白吗…真是个木头。",
+      "favorability": "60%",
+      "trueFeeling": "",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5p197vewrqb45vr5w",
+    "text": "不懂",
     "sender": "me",
-    "timestamp": 1767553044844,
+    "timestamp": 1767891636715,
     "quote": null
   },
   {
-    "id": "mk03gds18dxe5si3qch",
-    "turnId": "turn_mk03gds13di6wxwvlza",
-    "text": "太阳从西边出来了？",
-    "sender": "them",
-    "timestamp": 1767553060033,
-    "voiceData": {
-      "status": "身体不动声色地坐直了，手指停下了敲击键盘的动作",
-      "inner": "她要来？真的假的？",
-      "favorability": "55%",
-      "trueFeeling": "",
-      "tokens": null
-    }
-  },
-  {
-    "id": "mk03geekklfxoaj87i",
-    "turnId": "turn_mk03gds13di6wxwvlza",
-    "text": "突然这么主动",
-    "sender": "them",
-    "timestamp": 1767553060845,
-    "voiceData": {
-      "status": "身体不动声色地坐直了，手指停下了敲击键盘的动作",
-      "inner": "她要来？真的假的？",
-      "favorability": "55%",
-      "trueFeeling": "",
-      "tokens": null
-    }
-  },
-  {
-    "id": "mk03gf1ayqihcks3rm",
-    "turnId": "turn_mk03gds13di6wxwvlza",
-    "text": "你最好不是来给我添乱的",
-    "sender": "them",
-    "timestamp": 1767553061664,
-    "voiceData": {
-      "status": "身体不动声色地坐直了，手指停下了敲击键盘的动作",
-      "inner": "她要来？真的假的？",
-      "favorability": "55%",
-      "trueFeeling": "",
-      "tokens": null
-    }
-  },
-  {
-    "id": "mk03gfnstu3s06tseq",
-    "turnId": "turn_mk03gds13di6wxwvlza",
-    "text": "带什么",
-    "sender": "them",
-    "timestamp": 1767553062475,
-    "voiceData": {
-      "status": "身体不动声色地坐直了，手指停下了敲击键盘的动作",
-      "inner": "她要来？真的假的？",
-      "favorability": "55%",
-      "trueFeeling": "",
-      "tokens": null
-    }
-  },
-  {
-    "id": "mk03ggaekwj3acdg46p",
-    "turnId": "turn_mk03gds13di6wxwvlza",
-    "text": "咖啡还是夜宵？",
-    "sender": "them",
-    "timestamp": 1767553063290,
-    "voiceData": {
-      "status": "身体不动声色地坐直了，手指停下了敲击键盘的动作",
-      "inner": "她要来？真的假的？",
-      "favorability": "55%",
-      "trueFeeling": "",
-      "tokens": null
-    }
-  },
-  {
-    "id": "mk03ggx4jgir13vixmo",
-    "turnId": "turn_mk03gds13di6wxwvlza",
-    "text": "别买甜的",
-    "sender": "them",
-    "timestamp": 1767553064109,
-    "voiceData": {
-      "status": "身体不动声色地坐直了，手指停下了敲击键盘的动作",
-      "inner": "她要来？真的假的？",
-      "favorability": "55%",
-      "trueFeeling": "",
-      "tokens": null
-    }
-  },
-  {
-    "id": "mk03ghjrhwt0thdrhf5",
-    "turnId": "turn_mk03gds13di6wxwvlza",
-    "text": "腻",
-    "sender": "them",
-    "timestamp": 1767553064925,
-    "voiceData": {
-      "status": "身体不动声色地坐直了，手指停下了敲击键盘的动作",
-      "inner": "她要来？真的假的？",
-      "favorability": "55%",
-      "trueFeeling": "",
-      "tokens": null
-    }
-  },
-  {
-    "id": "mk03k0k9ny9xtnve8e",
-    "text": "大晚上的喝咖啡不太好",
+    "id": "mk5p1edo5r9sbr9stoj",
+    "text": "你能不能说人话",
     "sender": "me",
-    "timestamp": 1767553229529,
+    "timestamp": 1767891643404,
     "quote": null
   },
   {
-    "id": "mk03k7p6ut7k4thzgi",
-    "text": "嗯…",
+    "id": "mk5p1iqjahgp13q9f9q",
+    "text": "等等！",
     "sender": "me",
-    "timestamp": 1767553238778,
+    "timestamp": 1767891649051,
     "quote": null
   },
   {
-    "id": "mk03kdyl3wm7fiao7a5",
-    "text": "你想吃什么？",
+    "id": "mk5p1n32kzrge4og82",
+    "text": "我外卖到了",
     "sender": "me",
-    "timestamp": 1767553246893,
+    "timestamp": 1767891654686,
     "quote": null
   },
   {
-    "id": "mk03lieo5aggtv45hsn",
-    "turnId": "turn_mk03lieoc8y8nwv4746",
-    "text": "算你有点常识",
-    "sender": "them",
-    "timestamp": 1767553299312,
-    "voiceData": {
-      "status": "靠在椅背上，嘴角不易察觉地微微上扬",
-      "inner": "算你识相，知道来哄我",
-      "favorability": "58%",
-      "trueFeeling": "",
-      "tokens": null
-    }
-  },
-  {
-    "id": "mk03lj11df49ugb5eqk",
-    "turnId": "turn_mk03lieoc8y8nwv4746",
-    "text": "让你带咖啡是考验你",
-    "sender": "them",
-    "timestamp": 1767553300118,
-    "voiceData": {
-      "status": "靠在椅背上，嘴角不易察觉地微微上扬",
-      "inner": "算你识相，知道来哄我",
-      "favorability": "58%",
-      "trueFeeling": "",
-      "tokens": null
-    }
-  },
-  {
-    "id": "mk03ljnsbhc3uyshsjd",
-    "turnId": "turn_mk03lieoc8y8nwv4746",
-    "text": "看来智商还没掉线",
-    "sender": "them",
-    "timestamp": 1767553300938,
-    "voiceData": {
-      "status": "靠在椅背上，嘴角不易察觉地微微上扬",
-      "inner": "算你识相，知道来哄我",
-      "favorability": "58%",
-      "trueFeeling": "",
-      "tokens": null
-    }
-  },
-  {
-    "id": "mk03lkai5t21hbpldcv",
-    "turnId": "turn_mk03lieoc8y8nwv4746",
-    "text": "楼下那家日料店",
-    "sender": "them",
-    "timestamp": 1767553301757,
-    "voiceData": {
-      "status": "靠在椅背上，嘴角不易察觉地微微上扬",
-      "inner": "算你识相，知道来哄我",
-      "favorability": "58%",
-      "trueFeeling": "",
-      "tokens": null
-    }
-  },
-  {
-    "id": "mk03lkxb82v1vv7qmky",
-    "turnId": "turn_mk03lieoc8y8nwv4746",
-    "text": "鳗鱼饭",
-    "sender": "them",
-    "timestamp": 1767553302579,
-    "voiceData": {
-      "status": "靠在椅背上，嘴角不易察觉地微微上扬",
-      "inner": "算你识相，知道来哄我",
-      "favorability": "58%",
-      "trueFeeling": "",
-      "tokens": null
-    }
-  },
-  {
-    "id": "mk03lljyihthrzhg0b",
-    "turnId": "turn_mk03lieoc8y8nwv4746",
-    "text": "多加酱汁",
-    "sender": "them",
-    "timestamp": 1767553303395,
-    "voiceData": {
-      "status": "靠在椅背上，嘴角不易察觉地微微上扬",
-      "inner": "算你识相，知道来哄我",
-      "favorability": "58%",
-      "trueFeeling": "",
-      "tokens": null
-    }
-  },
-  {
-    "id": "mk03lm6qel95iqyetsd",
-    "turnId": "turn_mk03lieoc8y8nwv4746",
-    "text": "正好，我晚饭还没吃",
-    "sender": "them",
-    "timestamp": 1767553304216,
-    "voiceData": {
-      "status": "靠在椅背上，嘴角不易察觉地微微上扬",
-      "inner": "算你识相，知道来哄我",
-      "favorability": "58%",
-      "trueFeeling": "",
-      "tokens": null
-    }
-  },
-  {
-    "id": "mk03pwei1w2ndbupw6u",
-    "text": "行",
+    "id": "mk5p1pm391j8y1nwzlk",
+    "text": "我去拿一下",
     "sender": "me",
-    "timestamp": 1767553504074,
+    "timestamp": 1767891657963,
     "quote": null
   },
   {
-    "id": "mk03q0a9d13cj4mgycl",
+    "id": "mk5p2gw70r3wmxguhcxi",
+    "turnId": "turn_mk5p2gw7j0shrg5276l",
+    "text": "……",
+    "sender": "them",
+    "timestamp": 1767891693319,
+    "voiceData": {
+      "status": "靠在椅背上，有些不耐烦地看着手机屏幕",
+      "inner": "这个笨蛋，就差把答案写在她脸上了，居然还能被外卖打断",
+      "favorability": "52%",
+      "trueFeeling": "快点回来...",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5p2hiug1ioi7ujiy9",
+    "turnId": "turn_mk5p2gw7j0shrg5276l",
+    "text": "什么外卖",
+    "sender": "them",
+    "timestamp": 1767891694135,
+    "voiceData": {
+      "status": "靠在椅背上，有些不耐烦地看着手机屏幕",
+      "inner": "这个笨蛋，就差把答案写在她脸上了，居然还能被外卖打断",
+      "favorability": "52%",
+      "trueFeeling": "快点回来...",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5p2i658h9mliqb0qm",
+    "turnId": "turn_mk5p2gw7j0shrg5276l",
+    "text": "又是垃圾食品？",
+    "sender": "them",
+    "timestamp": 1767891694975,
+    "voiceData": {
+      "status": "靠在椅背上，有些不耐烦地看着手机屏幕",
+      "inner": "这个笨蛋，就差把答案写在她脸上了，居然还能被外卖打断",
+      "favorability": "52%",
+      "trueFeeling": "快点回来...",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5p2itof8cvzbjakiv",
+    "turnId": "turn_mk5p2gw7j0shrg5276l",
+    "text": "快点吃",
+    "sender": "them",
+    "timestamp": 1767891695823,
+    "voiceData": {
+      "status": "靠在椅背上，有些不耐烦地看着手机屏幕",
+      "inner": "这个笨蛋，就差把答案写在她脸上了，居然还能被外卖打断",
+      "favorability": "52%",
+      "trueFeeling": "快点回来...",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5p2jh1tqy6d4qtcso",
+    "turnId": "turn_mk5p2gw7j0shrg5276l",
+    "text": "吃完我们继续",
+    "sender": "them",
+    "timestamp": 1767891696665,
+    "voiceData": {
+      "status": "靠在椅背上，有些不耐烦地看着手机屏幕",
+      "inner": "这个笨蛋，就差把答案写在她脸上了，居然还能被外卖打断",
+      "favorability": "52%",
+      "trueFeeling": "快点回来...",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5p31jgmskai4ykql",
+    "text": "我点了炸鸡",
+    "sender": "me",
+    "timestamp": 1767891720076,
+    "quote": null
+  },
+  {
+    "id": "mk5p36kyx9hw99blsq",
+    "text": "你要不要来我家吃？",
+    "sender": "me",
+    "timestamp": 1767891726610,
+    "quote": null
+  },
+  {
+    "id": "mk5p39s7qel9svl8i1e",
+    "text": "我一个人吃不完",
+    "sender": "me",
+    "timestamp": 1767891730759,
+    "quote": null
+  },
+  {
+    "id": "mk5p3rtqk91i7mlfo2",
+    "turnId": "turn_mk5p3rtqhjgulgwq9w",
+    "text": "就知道你一个人吃不完",
+    "sender": "them",
+    "timestamp": 1767891754142,
+    "voiceData": {
+      "status": "从沙发上起身，拿起外套准备出门",
+      "inner": "就知道拿吃的来收买我，偏偏我还就吃这一套。",
+      "favorability": "52%",
+      "trueFeeling": "想见你。",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5p3sh1e0l6qzrogq",
+    "turnId": "turn_mk5p3rtqhjgulgwq9w",
+    "text": "一点都不知道节制",
+    "sender": "them",
+    "timestamp": 1767891754982,
+    "voiceData": {
+      "status": "从沙发上起身，拿起外套准备出门",
+      "inner": "就知道拿吃的来收买我，偏偏我还就吃这一套。",
+      "favorability": "52%",
+      "trueFeeling": "想见你。",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5p3t4gu50hawbss2",
+    "turnId": "turn_mk5p3rtqhjgulgwq9w",
     "text": "等着",
+    "sender": "them",
+    "timestamp": 1767891755826,
+    "voiceData": {
+      "status": "从沙发上起身，拿起外套准备出门",
+      "inner": "就知道拿吃的来收买我，偏偏我还就吃这一套。",
+      "favorability": "52%",
+      "trueFeeling": "想见你。",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5p3truo7k8w1pxrv",
+    "turnId": "turn_mk5p3rtqhjgulgwq9w",
+    "text": "我换个衣服就过去",
+    "sender": "them",
+    "timestamp": 1767891756669,
+    "voiceData": {
+      "status": "从沙发上起身，拿起外套准备出门",
+      "inner": "就知道拿吃的来收买我，偏偏我还就吃这一套。",
+      "favorability": "52%",
+      "trueFeeling": "想见你。",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5r18syedld4yfx4jn",
+    "text": "来来来",
     "sender": "me",
-    "timestamp": 1767553509105,
+    "timestamp": 1767894995410,
     "quote": null
   },
   {
-    "id": "mk03qkbhfc3ngfxv9e8",
-    "turnId": "turn_mk03qkbh0h9yzpkquf3u",
-    "text": "嗯",
-    "sender": "them",
-    "timestamp": 1767553535069,
-    "voiceData": null
-  },
-  {
-    "id": "mk03qky2uqkkn7fl00q",
-    "turnId": "turn_mk03qkbh0h9yzpkquf3u",
-    "text": "到了给我发消息",
-    "sender": "them",
-    "timestamp": 1767553535884,
-    "voiceData": null
-  },
-  {
-    "id": "mk03qlkqiwfpaetxxl",
-    "turnId": "turn_mk03qkbh0h9yzpkquf3u",
-    "text": "我下去接你",
-    "sender": "them",
-    "timestamp": 1767553536700,
-    "voiceData": null
-  },
-  {
-    "id": "mk03qm7dz5oh535iyd",
-    "turnId": "turn_mk03qkbh0h9yzpkquf3u",
-    "text": "路上注意安全",
-    "sender": "them",
-    "timestamp": 1767553537516,
-    "voiceData": null
-  },
-  {
-    "id": "mk03qmty3iaflwkwk9o",
-    "turnId": "turn_mk03qkbh0h9yzpkquf3u",
-    "text": "别让我等太久",
-    "sender": "them",
-    "timestamp": 1767553538330,
-    "voiceData": null
-  },
-  {
-    "id": "mk03qnglfham8bb3u77",
-    "turnId": "turn_mk03qkbh0h9yzpkquf3u",
-    "text": "饿了",
-    "sender": "them",
-    "timestamp": 1767553539146,
-    "voiceData": null
-  },
-  {
-    "id": "mk03trfn66i6dzttl9a",
-    "text": "我到啦",
+    "id": "mk5r1dv313t6prs1iqmc",
+    "text": "快来",
     "sender": "me",
-    "timestamp": 1767553684259,
+    "timestamp": 1767895001967,
     "quote": null
   },
   {
-    "id": "mk03tuzcn2vdg3ox1j",
-    "text": "来接我！",
+    "id": "mk5r1yjq7ggquk8re48",
+    "turnId": "turn_mk5r1yjqutrw6s9udml",
+    "text": "催什么",
+    "sender": "them",
+    "timestamp": 1767895028774,
+    "voiceData": {
+      "status": "拿起车钥匙和手机，关上门",
+      "inner": "真是的，一点都不知道照顾自己，还得我过去",
+      "favorability": "53%",
+      "trueFeeling": "",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5r1z6hm5kdpx19unq",
+    "turnId": "turn_mk5r1yjqutrw6s9udml",
+    "text": "我已经在路上了",
+    "sender": "them",
+    "timestamp": 1767895029594,
+    "voiceData": {
+      "status": "拿起车钥匙和手机，关上门",
+      "inner": "真是的，一点都不知道照顾自己，还得我过去",
+      "favorability": "53%",
+      "trueFeeling": "",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5r1zu1jb6dyfhlt9k",
+    "turnId": "turn_mk5r1yjqutrw6s9udml",
+    "text": "别把鸡腿吃完了",
+    "sender": "them",
+    "timestamp": 1767895030443,
+    "voiceData": {
+      "status": "拿起车钥匙和手机，关上门",
+      "inner": "真是的，一点都不知道照顾自己，还得我过去",
+      "favorability": "53%",
+      "trueFeeling": "",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk5r4ecfwrjxz5qk6re",
+    "text": "到了打我电话哦",
     "sender": "me",
-    "timestamp": 1767553688856,
+    "timestamp": 1767895142559,
     "quote": null
   },
   {
-    "id": "mk03ushl78gb9aggbbo",
+    "id": "mk75b0hxy9e0iqu2lob",
+    "turnId": "turn_mk75b0hw1y8zjldai5b",
+    "text": "打什么电话",
+    "sender": "them",
+    "timestamp": 1767979432005,
+    "voiceData": {
+      "status": "站在你家门口，正准备按密码",
+      "inner": "这家伙，这么点路还要打电话，麻烦。",
+      "favorability": "55%",
+      "trueFeeling": "",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk75b0inp9cau5fiy7q",
+    "turnId": "turn_mk75b0hw1y8zjldai5b",
+    "text": "我直接输密码进去",
+    "sender": "them",
+    "timestamp": 1767979432032,
+    "voiceData": {
+      "status": "站在你家门口，正准备按密码",
+      "inner": "这家伙，这么点路还要打电话，麻烦。",
+      "favorability": "55%",
+      "trueFeeling": "",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk75b0ipf5flmb85n96",
+    "turnId": "turn_mk75b0hw1y8zjldai5b",
+    "text": "你别把门反锁了",
+    "sender": "them",
+    "timestamp": 1767979432035,
+    "voiceData": {
+      "status": "站在你家门口，正准备按密码",
+      "inner": "这家伙，这么点路还要打电话，麻烦。",
+      "favorability": "55%",
+      "trueFeeling": "",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk76djfy8sxz4ntfpph",
+    "text": "哦",
+    "sender": "me",
+    "timestamp": 1767981229487,
+    "quote": null
+  },
+  {
+    "id": "mode_switch_mk76dn164i3i72egk3p",
+    "type": "mode_switch",
+    "text": "已进入线下模式",
+    "mode": "offline",
+    "timestamp": 1767981234138,
+    "isFolded": false
+  },
+  {
+    "id": "mk76ednwqyatrukuv5r",
+    "turnId": "turn_mk76ednw3sgylo9hiq5",
+    "text": "门外传来电子锁密码被按下的声音，接着是门锁弹开的轻响。\n\n纪言之推门进来，已经换下了一身笔挺的西装，只穿着简单的黑色T恤和灰色棉质长裤，头发也比在律所时随意了些，有几缕碎发垂在额前，让他看起来少了几分律师的锋利感，多了些居家的懒散。\n\n一进门，他就闻到了空气里浓郁的炸鸡油脂香气，他对此不置可否地皱了下眉。他的视线在玄关扫了一圈，没看到给你准备的拖鞋，径直往里走，一眼就看到了盘腿坐在客厅地毯上的你，面前摊着好几个外卖盒子，像是什么献祭现场。\n\n他走到你旁边，垂眼看着你和那堆食物，脸上没什么表情。\n\n「把地毯弄上油渍，你自己负责洗干净。」\n\n他一边说着，一边走到餐边柜，熟门熟路地拿出两副碗筷和盘子，又从冰箱里拿了两罐冰可乐出来，一并放在了茶几上，发出一声轻响。他没有跟你一样坐在地上，而是选择坐在了旁边的沙发上，身体微微前倾，看着面前的食物。\n\n「就知道你一个人解决不掉。每次都眼大肚子小。」\n\n他的语气平淡，听不出什么情绪，像是在陈述一个早已验证过无数次的客观事实。说完，他拿起一个鸡翅，用审视案卷一样的目光看了两秒，然后才开始吃。",
+    "sender": "them",
+    "timestamp": 1767981268652,
+    "voiceData": null
+  },
+  {
+    "id": "mk76gidsk2aw9mbok8h",
+    "text": "你饶有兴趣地看着他：「好吃吗？」",
+    "sender": "me",
+    "timestamp": 1767981368080,
+    "quote": null
+  },
+  {
+    "id": "mk76h2fe8vdrbzcz48y",
+    "turnId": "turn_mk76h2fcejpncdz8inf",
+    "text": "纪言之咀嚼的动作很慢，像是在分析什么复杂的成分构成。他咽下嘴里的食物，面部线条没有任何变化，看不出满意或是不满。\n\n他没有立刻回答你的问题，而是伸出手，拿过旁边那罐冰可乐，“啪”地一声拉开拉环，喝了一大口，冰凉的液体似乎中和了口腔里油炸食物的味道。\n\n「热量很高，调味过咸，油脂含量也超标。」\n\n他用一种陈述案件事实的平淡语气给出了评价，听起来像是在宣读一份不怎么乐观的体检报告。\n\n「总的来说，属于典型的、能快速提升多巴胺但对健康毫无益处的垃圾食品。」\n\n他说着，又拿起一块看起来炸得金黄酥脆的鸡块，放进自己面前的盘子里，动作自然得仿佛刚才那番犀利的点评不是出自他口。他用筷子夹着鸡块，咬了一口，继续吃着，视线落在食物上，没有看你。\n\n「不过，比你上次点的那家外卖，火候要好一点。那家的面衣都受潮了。」\n\n他又补充了一句，像是在做一个枯燥的案例对比分析。尽管嘴上全是批评，但他进食的动作却没有停下的意思。",
+    "sender": "them",
+    "timestamp": 1767981394058,
+    "voiceData": null
+  },
+  {
+    "id": "mk76ihg5avwt1wm057q",
+    "text": "你揶揄地拍了拍他的腿「口是心非。」",
+    "sender": "me",
+    "timestamp": 1767981460181,
+    "quote": null
+  },
+  {
+    "id": "mk76kg6kkjmrgjyfca9",
+    "turnId": "turn_mk76kg6kdae0vn5wahb",
+    "text": "纪言之正在咀嚼的动作停顿了一下。\n\n他的视线从面前的食物上移开，缓缓垂下，落在了你拍在他大腿上的那只手上。他盯着你的手看了两秒，然后才抬起眼，目光平静地与你对视，脸上依旧是那副没什么波澜的表情，但眼神里却多了一丝像是在审视不合格证物的挑剔。\n\n他没有立刻反驳，而是先将嘴里的食物咽了下去，动作不紧不慢。\n\n「我的陈述和我的行为，不存在逻辑冲突。」\n\n他的声音很平稳，像是在法庭上做最终陈词。\n\n「陈述，是基于这份食物的营养构成和烹饪手法的客观评价。它确实是垃圾食品。」他顿了顿，用下巴朝那堆摊开的外卖盒子点了点，示意证据确凿。「行为，是基于你一个人点了三人份的量、即将造成食物浪费这一既定事实，而我，正在提供解决方案。」\n\n他的逻辑链条清晰且完整，把自己吃炸鸡的行为完美地包装成了一种理性的、以解决问题为导向的援助行动。\n\n「所以，这不叫口是心非。这叫止损。」\n\n说完，他垂下眼，视线再次落回你还放在他腿上的手上。\n\n「还有，把你的手拿开。上面全是油。」\n\n他的语气带着一丝不易察觉的嫌弃，仿佛你的手是什么需要立刻隔离的污染源。他一边说着，一边又拿起一块鸡块，继续他那“止损”的行动。",
+    "sender": "them",
+    "timestamp": 1767981551852,
+    "voiceData": null
+  },
+  {
+    "id": "mk76l657k23v1zcj01",
+    "text": "你轻哼一声，「这么嫌弃我，那你滚出我家。」",
+    "sender": "me",
+    "timestamp": 1767981585499
+  },
+  {
+    "id": "mk7721u9grz4qng9ijn",
+    "turnId": "turn_mk7721u7cw2bujzdta",
+    "text": "纪言之听了这话，连眉毛都没动一下，完全把你的逐客令当成了耳边风。他不仅没有要起身的意思，反而坐得更稳了些，甚至还换了个更舒服的姿势靠在沙发背上。\n\n他伸手从茶几上抽了两张纸巾，动作精准地捉住你那只还停留在他腿上的手腕。他的手指干燥微凉，扣着你的手腕，把你那只“作恶”的手拉了起来。\n\n「刚才发消息催命一样让我过来的是谁？」\n\n他一边说着，一边低下头，动作看似随意实则仔细地帮你擦拭指尖上的油渍。纸巾摩擦过皮肤，他的力度控制得刚好，没有弄疼你，但也不容你挣脱。\n\n「利用完就扔，你的行为在法律上虽然不构成犯罪，但在道德层面，属于典型的过河拆桥。」\n\n擦完后，他把那团沾了油的纸巾准确地投进旁边的垃圾桶，松开你的手，又重新拿起筷子，夹起一块鸡翅放进你碗里，堵住你接下来可能要说的话。\n\n「吃你的。少说话。」\n\n他看了你一眼，眼神里写着“除了我没人受得了你”，然后淡定地喝了一口可乐，完全把你家当成了自己家一样自在。",
+    "sender": "them",
+    "timestamp": 1767982373073,
+    "voiceData": null
+  },
+  {
+    "id": "mk775z8rns9vof1xf3h",
+    "text": "你摇头晃脑地把头靠在他腿上：「来，小言子，给朕按摩按摩头，上班上得头疼。」",
+    "sender": "me",
+    "timestamp": 1767982556331,
+    "quote": null
+  },
+  {
+    "id": "mk776l3c1in4kaq5r0d",
+    "turnId": "turn_mk776l3cpkyrf5uruo",
+    "text": "纪言之拿着可乐罐的手停在半空。\n\n他垂下眼皮，看着那颗毫无预兆就枕在他大腿上的脑袋，目光在你的发顶停留了两秒。对于这个充满了太监意味的称呼，他的嘴角极其轻微地抽动了一下。\n\n他把可乐罐放回茶几上，发出“咔哒”一声轻响。\n\n「称呼纠正：我是你的代理律师，不是你的内务府总管。」\n\n嘴上虽然在反驳，但他并没有推开你。相反，他调整了一下坐姿，让你枕得更稳当些。随后，他抬起手，有些嫌弃地看了一眼你的头发，似乎在确认上面有没有沾上炸鸡的油渍。确认无误后，修长的手指才没入你的发间，指腹贴上你的太阳穴。\n\n他开始按揉，力度适中，手法娴熟得不像个律师，倒像个理疗师。\n\n「还有，头疼通常是因为用脑过度。」\n\n他一边按着，一边慢条斯理地开口，声音从上方传来，带着惯有的嘲讽。\n\n「以你平时的工作强度和大脑运转效率，我很怀疑你的头疼是因为大脑长期闲置导致的生锈，而不是过载。」\n\n指腹下的力度稍微加重了一点，带着一点惩罚的意味，但很快又恢复了舒缓的节奏。",
+    "sender": "them",
+    "timestamp": 1767982584648,
+    "voiceData": null
+  },
+  {
+    "id": "mk77845fxkovg27gdg",
+    "text": "「闭嘴吧你。」你闭着眼睛说，「晚上要不别回去了，你自己收拾一下客房，大晚上的累不累啊。」",
+    "sender": "me",
+    "timestamp": 1767982656004,
+    "quote": null
+  },
+  {
+    "id": "mk77bdti3hvalircvsl",
+    "turnId": "turn_mk77bdth1hziuk627po",
+    "text": "纪言之按揉的动作没有停，指尖依然在你发间穿梭，有节奏地帮你舒缓着神经。听到你的话，他的动作微不可察地顿了一瞬，随后又若无其事地继续。<br><br>「累？比起某人吃完了还要使唤人按摩，我这点通勤确实不算什么。」<br><br>他的视线落在你闭着的眼睛上，睫毛在眼下投出一小片阴影。客厅的灯光打在他的侧脸上，让他平日里冷硬的轮廓柔和了几分。<br><br>「不过，考虑到现在的时间点，以及打车软件上显示的排队人数……」<br><br>他顿了顿，似乎在进行某种成本效益分析。<br><br>「回去的时间成本确实过高，不符合效率原则。」<br><br>他算是应下了你的提议，理由依然找得冠冕堂皇，好像留宿只是为了节省那点通勤时间和打车费，而不是因为别的什么私心。<br><br>「客房不用收拾。」<br><br>他收回手，指尖离开你的发丝，顺势在你脑门上轻弹了一下，让你清醒一点。<br><br>「上次留在那里的洗漱用品和换洗衣物还在原来位置吧？别告诉我你给扔了。」<br><br>他当然知道没扔，甚至知道你大概率连动都没动过。他这么问，只是为了确认他在这个空间里的“领地”是否依旧完好无损。",
+    "sender": "them",
+    "timestamp": 1767982808502,
+    "voiceData": null
+  },
+  {
+    "id": "mk77ctap9340o74n2kv",
+    "text": "「留着呢留着呢，除了你还能有谁会睡我家啊。」",
+    "sender": "me",
+    "timestamp": 1767982875217,
+    "quote": null
+  },
+  {
+    "id": "mk77dkv4gppgwtnpv1i",
+    "turnId": "turn_mk77dkv4l7zxkrinbfd",
+    "text": "纪言之按在你太阳穴上的手指停顿了一下，随后改为在你头顶轻轻拍了拍，动作里少了几分刚才的嫌弃，多了一丝不易察觉的安抚意味。<br><br>这句话显然极大地取悦了他。虽然他极力控制着面部表情，不让自己流露出任何显得“不稳重”的神色，但原本紧抿成一条直线的唇角还是肉眼可见地柔和了下来。那种时刻准备着攻击或者说教的紧绷感，从他周身的氛围里消散了不少，整个人看起来顺毛了许多。<br><br>「这句话听起来还算顺耳。」<br><br>他收回手，身体向后靠回沙发背，双臂环抱在胸前，居高临下地看着你，语气里带着一种理所当然的掌控感，仿佛在确立某种排他性的契约。<br><br>「保持这个认知。独居女性的住所属于高风险隐私区域，除了知根知底且经过长期信用评估的人——比如我，任何异性的留宿请求都应该被视为潜在的危险信号。」<br><br>他说着，视线扫过这间屋子，目光在玄关、阳台等位置停留了片刻，仿佛在巡视自己的专属领地。确认了这里没有其他雄性生物入侵的痕迹，且你对“除了他没人能来”这件事有着清晰的认知后，他才满意地站起身，顺手理了理衣摆上的褶皱。<br><br>「既然要留宿，我去洗澡。你自己把桌上这些垃圾收拾了，别指望我帮你做这种毫无技术含量的家务。」<br><br>虽然嘴上这么说，但他站起来后并没有立刻往浴室走，而是弯腰把你吃剩的几个外卖盒利落地叠在一起，顺手拎了起来，动作和他刚才的言论完全背道而驰。他拎着那些盒子走向厨房的垃圾桶，路过你身边时，又停下脚步，低头看了你一眼。<br><br>「还有，下次那个谁……叫什么来着，那个新来的实习生，如果提出送你回家，记得拒绝。理由就说你家里有人，不方便。」",
+    "sender": "them",
+    "timestamp": 1767982910944,
+    "voiceData": null
+  },
+  {
+    "id": "mk77gjsppu91l6r7ak",
+    "text": "「那如果我很晚才下班呢？你让我一个人回家啊？你一点也不关心我的安危吗？」",
+    "sender": "me",
+    "timestamp": 1767983049529
+  },
+  {
+    "id": "mk77h6q3qcfg6a3a8k",
+    "turnId": "turn_mk77h6q3m43nocuf5w",
+    "text": "纪言之刚把外卖盒扔进垃圾桶，正站在厨房水槽前洗手。听到你的质问，他关掉水龙头，甩了甩手上的水珠，转过身靠在流理台边，眼神里带着几分“你在说什么蠢话”的不可理喻。<br><br>「你的逻辑链条断裂了吗？」<br><br>他扯过旁边的纸巾擦干手，迈着长腿走回客厅，站在你面前，投下一片阴影。<br><br>「如果真的很晚下班，给我打电话或者发信息。我的手机24小时开机，除非我在开庭或者在去见上帝的路上，否则我都会接。」<br><br>他把纸团精准地扔进茶几旁的垃圾桶，语气硬邦邦的，却透着一股不容置疑的笃定。<br><br>「至于那个实习生……」<br><br>他冷笑了一声，推了推眼镜，镜片上闪过一道冷光。<br><br>「一个连路况都不熟悉、车技未知、背景调查都没做过的人，送你回家只会增加你的风险系数。相比之下，我作为一个拥有十年驾龄、无事故记录、且对你家住址烂熟于心的人，才是最优解。」<br><br>他弯下腰，双手撑在膝盖上，视线与你平齐，那双总是显得冷淡的眼睛此刻直直地盯着你，带着一种近乎执拗的认真。<br><br>「所以，不存在让你一个人回家的情况。除非你自己忘了我有车这件事。」<br><br>说完，他直起身，像是为了掩饰刚才那一瞬间流露出的过多情绪，有些不自然地清了清嗓子。<br><br>「好了，我去洗澡。你自己把地毯上的饼干碎屑清理一下，别让我出来看到。」",
+    "sender": "them",
+    "timestamp": 1767983079243,
+    "voiceData": null
+  },
+  {
+    "id": "mk77jk9v2xpq9tc6gf2",
+    "text": "「想送我回家就直说，弯弯绕绕的。」你说，「快去吧快去吧，我好困，我要睡觉去了。」",
+    "sender": "me",
+    "timestamp": 1767983190115,
+    "quote": null
+  },
+  {
+    "id": "mk77lc7u4q8nvpievik",
+    "turnId": "turn_mk77lc7u7cm3harbkup",
+    "text": "纪言之停下往浴室走的脚步，侧过身看着你，那副被你拆穿后略显不自然的僵硬转瞬即逝。他抬手推了推眼镜，试图用标志性的冷淡神情来掩盖那一瞬间的尴尬，仿佛只要他足够理直气壮，你的指控就不成立。\n\n「直球通常意味着缺乏策略。我这是基于风险评估做出的最优路径选择。」\n\n他一本正经地胡扯，完全不承认自己就是想送你、就是占有欲作祟。看着你困得眼睛都要睁不开的样子，他没再继续在这个话题上纠缠，原本还想说教两句的话头也被他咽了回去。\n\n「行了，去睡。」\n\n他抬了抬下巴，示意卧室的方向，语气虽然依旧硬邦邦的，但音量明显放低了一些。\n\n「别在沙发上挺尸，对颈椎不好。去床上睡。」\n\n看着你摇摇晃晃地站起来往卧室走，他没有立刻进浴室，而是站在原地看着你的背影，直到确认你进了房间关上门，没有半路倒在地毯上睡着，他才收回视线。\n\n他转身走进客房浴室，关门前又补了一句，声音隔着门板传出来，带着点闷闷的回响。\n\n「空调温度别开太低，明天感冒了我不会给你送药。」\n\n（当然，如果真感冒了，他大概率还是会一边骂你笨蛋一边提着药箱上门。）",
+    "sender": "them",
+    "timestamp": 1767983272987,
+    "voiceData": null
+  },
+  {
+    "id": "mode_switch_mk77mg878nm7ue94ac6",
+    "type": "mode_switch",
+    "text": "已退出线下模式",
+    "mode": "online",
+    "timestamp": 1767983324839
+  },
+  {
+    "id": "mk77ostj32gql3ntv84",
+    "text": "（早上八点）",
+    "sender": "me",
+    "timestamp": 1767983434471,
+    "quote": null
+  },
+  {
+    "id": "mk77owzj6tr3ns2359a",
+    "text": "你走了吗？",
+    "sender": "me",
+    "timestamp": 1767983439871,
+    "quote": null
+  },
+  {
+    "id": "mk77pf12tf4x7wlabq",
+    "turnId": "turn_mk77pf119oaq39ubpy9",
+    "text": "看看现在几点了",
+    "sender": "them",
+    "timestamp": 1767983463254,
+    "voiceData": {
+      "status": "坐在办公桌前翻看案卷，手边是一杯刚泡好的黑咖啡",
+      "inner": "猪终于醒了",
+      "favorability": "58%",
+      "trueFeeling": "",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk77pf1u0006777gsr85ku",
+    "turnId": "turn_mk77pf119oaq39ubpy9",
+    "text": "我都已经在律所开完一个晨会了",
+    "sender": "them",
+    "timestamp": 1767983463283,
+    "voiceData": {
+      "status": "坐在办公桌前翻看案卷，手边是一杯刚泡好的黑咖啡",
+      "inner": "猪终于醒了",
+      "favorability": "58%",
+      "trueFeeling": "",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk77pf1wxy4rcm3d1j",
+    "turnId": "turn_mk77pf119oaq39ubpy9",
+    "text": "指望你起床送我？",
+    "sender": "them",
+    "timestamp": 1767983463286,
+    "voiceData": {
+      "status": "坐在办公桌前翻看案卷，手边是一杯刚泡好的黑咖啡",
+      "inner": "猪终于醒了",
+      "favorability": "58%",
+      "trueFeeling": "",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk77pf1ypnvusio25fh",
+    "turnId": "turn_mk77pf119oaq39ubpy9",
+    "text": "那我大概率会迟到",
+    "sender": "them",
+    "timestamp": 1767983463289,
+    "voiceData": {
+      "status": "坐在办公桌前翻看案卷，手边是一杯刚泡好的黑咖啡",
+      "inner": "猪终于醒了",
+      "favorability": "58%",
+      "trueFeeling": "",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk77pf1zw7yl3kwwv7",
+    "turnId": "turn_mk77pf119oaq39ubpy9",
+    "text": "餐桌上有三明治和牛奶",
+    "sender": "them",
+    "timestamp": 1767983463291,
+    "voiceData": {
+      "status": "坐在办公桌前翻看案卷，手边是一杯刚泡好的黑咖啡",
+      "inner": "猪终于醒了",
+      "favorability": "58%",
+      "trueFeeling": "",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk77pf213afcw7rc0u4",
+    "turnId": "turn_mk77pf119oaq39ubpy9",
+    "text": "牛奶记得热一下",
+    "sender": "them",
+    "timestamp": 1767983463294,
+    "voiceData": {
+      "status": "坐在办公桌前翻看案卷，手边是一杯刚泡好的黑咖啡",
+      "inner": "猪终于醒了",
+      "favorability": "58%",
+      "trueFeeling": "",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk77pf2327f5r7pvdgx",
+    "turnId": "turn_mk77pf119oaq39ubpy9",
+    "text": "别空腹喝冰的",
+    "sender": "them",
+    "timestamp": 1767983463297,
+    "voiceData": {
+      "status": "坐在办公桌前翻看案卷，手边是一杯刚泡好的黑咖啡",
+      "inner": "猪终于醒了",
+      "favorability": "58%",
+      "trueFeeling": "",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk77pf251dgjap2zgyk",
+    "turnId": "turn_mk77pf119oaq39ubpy9",
     "type": "image",
     "isSticker": true,
-    "url": "https://i.postimg.cc/LXLMq22z/image.png",
-    "text": "[表情: 大摇大摆]",
+    "url": "https://i.postimg.cc/kGqLBSjm/image.jpg",
+    "text": "[表情: 盯着看]",
+    "sender": "them",
+    "timestamp": 1767983463300,
+    "voiceData": {
+      "status": "坐在办公桌前翻看案卷，手边是一杯刚泡好的黑咖啡",
+      "inner": "猪终于醒了",
+      "favorability": "58%",
+      "trueFeeling": "",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk7nvpnh9yyds3ndch",
+    "text": "呦",
     "sender": "me",
-    "timestamp": 1767553732281
+    "timestamp": 1768010630813,
+    "quote": null
   },
   {
-    "id": "mk03vt9kgx6id56rfnb",
-    "turnId": "turn_mk03vt9k7l6h4ijn08s",
-    "text": "知道了",
+    "id": "mk7nw2c2gyc1ef5ohnf",
+    "text": "贤夫良父啊",
+    "sender": "me",
+    "timestamp": 1768010647250,
+    "quote": null
+  },
+  {
+    "id": "mk7nwgw14s29xmncjjs",
+    "turnId": "turn_mk7nwgw1t5ab8nv3pm",
+    "text": "乱用成语",
     "sender": "them",
-    "timestamp": 1767553779944,
+    "timestamp": 1768010666113,
     "voiceData": {
-      "status": "拿起搭在椅背上的西装外套，快步走向电梯",
-      "inner": "走路都能这么得意，像只小鸭子。",
-      "favorability": "53%",
-      "trueFeeling": "",
+      "status": "正在审阅合同，看到消息差点把笔捏断，嘴角疯狂上扬又强行压下",
+      "inner": "这个称呼……咳，还挺顺耳的",
+      "favorability": "65%",
+      "trueFeeling": "(我是贤夫，那你是笨蛋老婆？)",
       "tokens": null
-    },
-    "alternatives": [
-      [
-        {
-          "id": "mk03v4sxsoxawtn89ms",
-          "turnId": "turn_mk03v4sx950kohq06os",
-          "text": "嗯",
-          "sender": "them",
-          "timestamp": 1767553748241,
-          "voiceData": null
-        },
-        {
-          "id": "mk03v5fj9mqef9ukh1v",
-          "turnId": "turn_mk03v4sx950kohq06os",
-          "text": "收到了",
-          "sender": "them",
-          "timestamp": 1767553749056,
-          "voiceData": null
-        },
-        {
-          "id": "mk03v627r2p0zw1zlq",
-          "turnId": "turn_mk03v4sx950kohq06os",
-          "text": "还大摇大摆",
-          "sender": "them",
-          "timestamp": 1767553749873,
-          "voiceData": null
-        },
-        {
-          "id": "mk03v6ovhwn43h1oxa",
-          "turnId": "turn_mk03v4sx950kohq06os",
-          "text": "生怕前台不知道你来了？",
-          "sender": "them",
-          "timestamp": 1767553750690,
-          "voiceData": null
-        },
-        {
-          "id": "mk03v7bjfvg6ka7eu1",
-          "turnId": "turn_mk03v4sx950kohq06os",
-          "text": "站着别动",
-          "sender": "them",
-          "timestamp": 1767553751507,
-          "voiceData": null
-        },
-        {
-          "id": "mk03v7y7zfad69jghqo",
-          "turnId": "turn_mk03v4sx950kohq06os",
-          "text": "我下来了",
-          "sender": "them",
-          "timestamp": 1767553752324,
-          "voiceData": null
-        }
-      ]
-    ]
+    }
   },
   {
-    "id": "mk03vtvx30neloqjbuh",
-    "turnId": "turn_mk03vt9k7l6h4ijn08s",
-    "text": "马上下来",
+    "id": "mk7nwhiwfd5tgau5259",
+    "turnId": "turn_mk7nwgw1t5ab8nv3pm",
+    "text": "语文老师会哭的",
     "sender": "them",
-    "timestamp": 1767553780750,
+    "timestamp": 1768010666937,
     "voiceData": {
-      "status": "拿起搭在椅背上的西装外套，快步走向电梯",
-      "inner": "走路都能这么得意，像只小鸭子。",
-      "favorability": "53%",
+      "status": "正在审阅合同，看到消息差点把笔捏断，嘴角疯狂上扬又强行压下",
+      "inner": "这个称呼……咳，还挺顺耳的",
+      "favorability": "65%",
+      "trueFeeling": "(我是贤夫，那你是笨蛋老婆？)",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk7nwi5n61ym7qz781r",
+    "turnId": "turn_mk7nwgw1t5ab8nv3pm",
+    "text": "这叫基于借宿关系的",
+    "sender": "them",
+    "timestamp": 1768010667757,
+    "voiceData": {
+      "status": "正在审阅合同，看到消息差点把笔捏断，嘴角疯狂上扬又强行压下",
+      "inner": "这个称呼……咳，还挺顺耳的",
+      "favorability": "65%",
+      "trueFeeling": "(我是贤夫，那你是笨蛋老婆？)",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk7nwiscv2oy241iv4l",
+    "turnId": "turn_mk7nwgw1t5ab8nv3pm",
+    "text": "人道主义援助",
+    "sender": "them",
+    "timestamp": 1768010668575,
+    "voiceData": {
+      "status": "正在审阅合同，看到消息差点把笔捏断，嘴角疯狂上扬又强行压下",
+      "inner": "这个称呼……咳，还挺顺耳的",
+      "favorability": "65%",
+      "trueFeeling": "(我是贤夫，那你是笨蛋老婆？)",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk7nwjeznyfhedh4tr",
+    "turnId": "turn_mk7nwgw1t5ab8nv3pm",
+    "text": "顺手做的",
+    "sender": "them",
+    "timestamp": 1768010669392,
+    "voiceData": {
+      "status": "正在审阅合同，看到消息差点把笔捏断，嘴角疯狂上扬又强行压下",
+      "inner": "这个称呼……咳，还挺顺耳的",
+      "favorability": "65%",
+      "trueFeeling": "(我是贤夫，那你是笨蛋老婆？)",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk7nwk25qjgvafeiupo",
+    "turnId": "turn_mk7nwgw1t5ab8nv3pm",
+    "text": "别想太多",
+    "sender": "them",
+    "timestamp": 1768010670226,
+    "voiceData": {
+      "status": "正在审阅合同，看到消息差点把笔捏断，嘴角疯狂上扬又强行压下",
+      "inner": "这个称呼……咳，还挺顺耳的",
+      "favorability": "65%",
+      "trueFeeling": "(我是贤夫，那你是笨蛋老婆？)",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk7nwkp2eeyrhlrs0ww",
+    "turnId": "turn_mk7nwgw1t5ab8nv3pm",
+    "text": "吃完了把盘子洗了",
+    "sender": "them",
+    "timestamp": 1768010671052,
+    "voiceData": {
+      "status": "正在审阅合同，看到消息差点把笔捏断，嘴角疯狂上扬又强行压下",
+      "inner": "这个称呼……咳，还挺顺耳的",
+      "favorability": "65%",
+      "trueFeeling": "(我是贤夫，那你是笨蛋老婆？)",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk7nwlbzjug2z84ha6e",
+    "turnId": "turn_mk7nwgw1t5ab8nv3pm",
+    "text": "别留在那长毛",
+    "sender": "them",
+    "timestamp": 1768010671878,
+    "voiceData": {
+      "status": "正在审阅合同，看到消息差点把笔捏断，嘴角疯狂上扬又强行压下",
+      "inner": "这个称呼……咳，还挺顺耳的",
+      "favorability": "65%",
+      "trueFeeling": "(我是贤夫，那你是笨蛋老婆？)",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk7nylt0nu4mndwqtfp",
+    "text": "好的老婆",
+    "sender": "me",
+    "timestamp": 1768010765798,
+    "quote": null
+  },
+  {
+    "id": "mk7nyrrndkurvheqjru",
+    "text": "上班加油哦",
+    "sender": "me",
+    "timestamp": 1768010773523,
+    "quote": null
+  },
+  {
+    "id": "mk7o12kbtya1php03k",
+    "turnId": "turn_mk7o12kb5snfaj1y12",
+    "text": "...",
+    "sender": "them",
+    "timestamp": 1768010880827,
+    "voiceData": {
+      "status": "手里的钢笔在纸上划出一道重重的墨痕，耳根瞬间红透",
+      "inner": "老...老婆？！她知不知道自己在喊什么...心脏快跳出来了",
+      "favorability": "65%",
+      "trueFeeling": "其实...再叫一声也行",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk7o13784c6rqywjpyk",
+    "turnId": "turn_mk7o12kb5snfaj1y12",
+    "text": "乱叫什么",
+    "sender": "them",
+    "timestamp": 1768010881653,
+    "voiceData": {
+      "status": "手里的钢笔在纸上划出一道重重的墨痕，耳根瞬间红透",
+      "inner": "老...老婆？！她知不知道自己在喊什么...心脏快跳出来了",
+      "favorability": "65%",
+      "trueFeeling": "其实...再叫一声也行",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk7o13tsi4frdc4jlcq",
+    "turnId": "turn_mk7o12kb5snfaj1y12",
+    "text": "我是男的",
+    "sender": "them",
+    "timestamp": 1768010882467,
+    "voiceData": {
+      "status": "手里的钢笔在纸上划出一道重重的墨痕，耳根瞬间红透",
+      "inner": "老...老婆？！她知不知道自己在喊什么...心脏快跳出来了",
+      "favorability": "65%",
+      "trueFeeling": "其实...再叫一声也行",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk7o14j24wmh3egrm3q",
+    "turnId": "turn_mk7o12kb5snfaj1y12",
+    "text": "性别认知障碍建议去挂号",
+    "sender": "them",
+    "timestamp": 1768010883377,
+    "voiceData": {
+      "status": "手里的钢笔在纸上划出一道重重的墨痕，耳根瞬间红透",
+      "inner": "老...老婆？！她知不知道自己在喊什么...心脏快跳出来了",
+      "favorability": "65%",
+      "trueFeeling": "其实...再叫一声也行",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk7o155q1n7c0zaa3y7",
+    "turnId": "turn_mk7o12kb5snfaj1y12",
+    "text": "律师函警告",
+    "sender": "them",
+    "timestamp": 1768010884194,
+    "voiceData": {
+      "status": "手里的钢笔在纸上划出一道重重的墨痕，耳根瞬间红透",
+      "inner": "老...老婆？！她知不知道自己在喊什么...心脏快跳出来了",
+      "favorability": "65%",
+      "trueFeeling": "其实...再叫一声也行",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk7o15saetq9xv6s3to",
+    "type": "retracted",
+    "senderType": "char",
+    "originalContent": "嗯。",
+    "innerThought": "(该死，居然下意识想答应)",
+    "timestamp": 1768010885007
+  },
+  {
+    "id": "mk7o2uignmnpyfc20z",
+    "text": "男的也可以当老婆啊",
+    "sender": "me",
+    "timestamp": 1768010963706,
+    "quote": null
+  },
+  {
+    "id": "mk7o3179i9ho57q8qs",
+    "text": "男老婆更香",
+    "sender": "me",
+    "timestamp": 1768010972373,
+    "quote": null
+  },
+  {
+    "id": "mk7o372rgyyb5vjxrap",
+    "type": "image",
+    "isSticker": true,
+    "url": "https://i.postimg.cc/g0R9wGz1/temp-Imageel4-JIY.avif",
+    "text": "[表情: 色情的凝视]",
+    "sender": "me",
+    "timestamp": 1768010979987
+  },
+  {
+    "id": "mk7o3gs6msbikowsi9p",
+    "turnId": "turn_mk7o3gs6e7k7tg4v0sp",
+    "text": "简直不可理喻",
+    "sender": "them",
+    "timestamp": 1768010992566,
+    "voiceData": {
+      "status": "正在签文件的手一抖，笔尖划破了纸张",
+      "inner": "咳...什么乱七八糟的",
+      "favorability": "62%",
       "trueFeeling": "",
       "tokens": null
     }
   },
   {
-    "id": "mk03vuipnnvao6vd2t",
-    "turnId": "turn_mk03vt9k7l6h4ijn08s",
-    "text": "在楼下大厅等着",
+    "id": "mk7o3hfi07mi5t6taf1y",
+    "turnId": "turn_mk7o3gs6e7k7tg4v0sp",
+    "text": "现在的网络文化",
     "sender": "them",
-    "timestamp": 1767553781571,
+    "timestamp": 1768010993407,
     "voiceData": {
-      "status": "拿起搭在椅背上的西装外套，快步走向电梯",
-      "inner": "走路都能这么得意，像只小鸭子。",
-      "favorability": "53%",
+      "status": "正在签文件的手一抖，笔尖划破了纸张",
+      "inner": "咳...什么乱七八糟的",
+      "favorability": "62%",
       "trueFeeling": "",
       "tokens": null
     }
   },
   {
-    "id": "mk03vv5gi5t7kc50gml",
-    "turnId": "turn_mk03vt9k7l6h4ijn08s",
-    "text": "别乱跑",
+    "id": "mk7o3i2tyc92wrlhv6",
+    "turnId": "turn_mk7o3gs6e7k7tg4v0sp",
+    "text": "真是荼毒不浅",
     "sender": "them",
-    "timestamp": 1767553782391,
+    "timestamp": 1768010994247,
     "voiceData": {
-      "status": "拿起搭在椅背上的西装外套，快步走向电梯",
-      "inner": "走路都能这么得意，像只小鸭子。",
-      "favorability": "53%",
+      "status": "正在签文件的手一抖，笔尖划破了纸张",
+      "inner": "咳...什么乱七八糟的",
+      "favorability": "62%",
       "trueFeeling": "",
       "tokens": null
     }
   },
   {
-    "id": "mk03vvs47vrjdio2q5m",
-    "turnId": "turn_mk03vt9k7l6h4ijn08s",
-    "text": "不然等下找不到你",
+    "id": "mk7o3iq6a4g3pwitq3a",
+    "turnId": "turn_mk7o3gs6e7k7tg4v0sp",
+    "text": "这种毫无逻辑的称呼",
     "sender": "them",
-    "timestamp": 1767553783208,
+    "timestamp": 1768010995089,
     "voiceData": {
-      "status": "拿起搭在椅背上的西装外套，快步走向电梯",
-      "inner": "走路都能这么得意，像只小鸭子。",
-      "favorability": "53%",
+      "status": "正在签文件的手一抖，笔尖划破了纸张",
+      "inner": "咳...什么乱七八糟的",
+      "favorability": "62%",
+      "trueFeeling": "",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk7o3jdj58264zv5nlk",
+    "turnId": "turn_mk7o3gs6e7k7tg4v0sp",
+    "text": "以后少用",
+    "sender": "them",
+    "timestamp": 1768010995931,
+    "voiceData": {
+      "status": "正在签文件的手一抖，笔尖划破了纸张",
+      "inner": "咳...什么乱七八糟的",
+      "favorability": "62%",
+      "trueFeeling": "",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk7o3k0x6xf2er1p8lr",
+    "turnId": "turn_mk7o3gs6e7k7tg4v0sp",
+    "text": "影响我专业形象",
+    "sender": "them",
+    "timestamp": 1768010996774,
+    "voiceData": {
+      "status": "正在签文件的手一抖，笔尖划破了纸张",
+      "inner": "咳...什么乱七八糟的",
+      "favorability": "62%",
+      "trueFeeling": "",
+      "tokens": null
+    }
+  },
+  {
+    "id": "mk7o3knhrbdn87txifs",
+    "turnId": "turn_mk7o3gs6e7k7tg4v0sp",
+    "type": "image",
+    "isSticker": true,
+    "url": "https://i.postimg.cc/nrTfHTFz/temp-Imagema6-R8-H.avif",
+    "text": "[表情: 别说了我爱你]",
+    "sender": "them",
+    "timestamp": 1768010997587,
+    "voiceData": {
+      "status": "正在签文件的手一抖，笔尖划破了纸张",
+      "inner": "咳...什么乱七八糟的",
+      "favorability": "62%",
       "trueFeeling": "",
       "tokens": null
     }
