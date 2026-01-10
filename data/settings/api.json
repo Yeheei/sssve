@@ -1,3 +1,4 @@
 {
-  "apiSettings": "{\"url\":\"https://gemini.beijixingxing.com/v1\",\"model\":\"gemini-3-pro-preview[真流-GG公益]\",\"temp\":0.7,\"stream\":true}"
+  "apiSettings": "{\"url\":\"https://gemini.beijixingxing.com/v1\",\"model\":\"gemini-3-pro-preview[真流-GG公益]\",\"temp\":0.7,\"stream\":true}",
+  "apiPresets": "{\"北极星\":{\"url\":\"https://gemini.beijixingxing.com/v1\",\"model\":\"gemini-2.5-pro[真流-猫猫]\",\"temp\":0.7,\"stream\":true},\"小鸡\":{\"url\":\"https://cdn3.242243.xyz/\",\"model\":\"[gcli] gemini-3-pro [假流] [满血]\",\"temp\":0.7,\"stream\":true},\"熊猫\":{\"url\":\"https://api520.pro/v1\",\"model\":\"熊猫-A-5-[100k]gemini-2.5-pro\",\"temp\":0.7,\"stream\":true}}"
 }
